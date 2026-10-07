@@ -2,7 +2,7 @@
 
 [Back to the resource page](../README.md) · [Download BibTeX](../references.bib)
 
-⭐ GitHub stars checked on **2026-10-07**. Links point to verified author repositories or accompanying resources.
+⭐ GitHub star badges update automatically. Links point to author repositories or accompanying resources verified on **2026-10-07**.
 
 216 distinct papers are cited in the manuscript text or tables. The supplied bibliography contains 218 records in total.
 
@@ -55,7 +55,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Mei, J. and Chen, J. and Yang, G. and Hou, X. and Li, M. and Byrne, B.  
 **BibTeX key:** `mei2026according`  
 **Link:** [Paper](https://arxiv.org/abs/2603.01990)  
-**GitHub:** [GitHub ⭐ 68](https://github.com/JingbiaoMei/ATM-Bench)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/JingbiaoMei/ATM-Bench)](https://github.com/JingbiaoMei/ATM-Bench)
 **Survey topics:** [Personal Reference Resolution](personalization.md#personal-reference-resolution)
 
 
@@ -89,7 +89,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Shkolnikov, Y. P.  
 **BibTeX key:** `shkolnikov2026agent`  
 **Link:** [Paper](https://arxiv.org/abs/2603.04428)  
-**GitHub:** [GitHub ⭐ 18](https://github.com/yshk-mxim/agent-memory)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/yshk-mxim/agent-memory)](https://github.com/yshk-mxim/agent-memory)
 **Survey topics:** [Cache Compression](memory-forms.md#cache-compression) · [Tiered Storage](memory-forms.md#tiered-storage)
 
 
@@ -123,7 +123,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Yu, Y. and Yao, L. and Xie, Y. and Tan, Q. and Feng, J. and Li, Y. and Wu, L.  
 **BibTeX key:** `yu2026agentic`  
 **Link:** [Paper](https://doi.org/10.18653/v1/2026.acl-long.981)  
-**GitHub:** [GitHub ⭐ 50](https://github.com/y1y5/AgeMem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/y1y5/AgeMem)](https://github.com/y1y5/AgeMem)
 **Survey topics:** [Write Admission](lifecycle.md#write-admission) · [Memory Updating](lifecycle.md#memory-updating) · [Resource-Aware Lifecycle Management](challenges.md#resource-aware-lifecycle-management)
 
 
@@ -135,7 +135,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Rege, A. and Sadhu, A. and Li, Y. and Li, K. and Vinayak, R. K. and Chai, Y. and Lee, Y. J. and Kim, H. J.  
 **BibTeX key:** `rege2026agentic`  
 **Link:** [Paper](https://arxiv.org/abs/2601.18157)  
-**GitHub:** [GitHub ⭐ 63](https://github.com/facebookresearch/egagent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/egagent)](https://github.com/facebookresearch/egagent)
 **Survey topics:** [Multi-Entity Graphs](memory-forms.md#multi-entity-graphs) · [Retrieval Triggering](lifecycle.md#retrieval-triggering) · [Memory Routing](lifecycle.md#memory-routing) · [Post-Retrieval Evidence Reduction](lifecycle.md#post-retrieval-evidence-reduction)
 
 
@@ -147,7 +147,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Zhao, Y. and Yuan, B. and Huang, J. and Yuan, H. and Yu, Z. and Xu, H. and Hu, L. and Shankarampeta, A. and Huang, Z. and Ni, W. and Tian, Y. and Zhao, J.  
 **BibTeX key:** `zhao2026bama`  
 **Link:** [Paper](https://arxiv.org/abs/2602.22769)  
-**GitHub:** [GitHub ⭐ 83](https://github.com/AMA-Bench/AMA-Bench)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/AMA-Bench/AMA-Bench)](https://github.com/AMA-Bench/AMA-Bench)
 **Resources:** [Data](https://huggingface.co/datasets/AMA-bench/AMA-bench) · [Repository](https://github.com/AMA-Bench/AMA-Bench)
 **Survey topics:** [Memory Accuracy](evaluation.md#memory-accuracy) · [Benchmarks](evaluation.md#benchmarks) · [General Agent-Memory Benchmarks](evaluation.md#general-agent-memory-benchmarks)
 
@@ -171,7 +171,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wenyu Mao and Haosong Tan and Shuchang Liu and Haoyang Liu and Yifan Xu and Huaxiang Ji and Xiang Wang  
 **BibTeX key:** `mao2026bimembidirectionalconstructionhierarchical`  
 **Link:** [Paper](https://arxiv.org/abs/2601.06490)  
-**GitHub:** [GitHub ⭐ 4](https://github.com/tohsaka-sb/Bi-Mem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/tohsaka-sb/Bi-Mem)](https://github.com/tohsaka-sb/Bi-Mem)
 **Survey topics:** [User Profiles](memory-forms.md#user-profiles)
 
 
@@ -194,7 +194,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Rao, Aditya Karnam Gururaj and Jaggi, Arjun  
 **BibTeX key:** `rao2026budgetbench`  
 **Link:** [Paper](https://arxiv.org/abs/2609.13149)  
-**GitHub:** [GitHub ⭐ 0](https://github.com/aviskaar/budgetbench)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/aviskaar/budgetbench)](https://github.com/aviskaar/budgetbench)
 **Resources:** [Repository](https://github.com/aviskaar/budgetbench)
 **Survey topics:** [On-Device Runtime Cost](evaluation.md#on-device-runtime-cost) · [Benchmarks](evaluation.md#benchmarks)
 
@@ -229,7 +229,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Cai, W. and Zhang, H. and Huang, Y. and Sun, S. and Deng, J. and Xu, S. and Song, J. and Zhang, Z.  
 **BibTeX key:** `cai2026color`  
 **Link:** [Paper](https://arxiv.org/abs/2603.22466)  
-**GitHub:** [GitHub ⭐ 4](https://github.com/lvgd/ColorTrigger)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/lvgd/ColorTrigger)](https://github.com/lvgd/ColorTrigger)
 **Survey topics:** [Smart Glasses](deployment.md#smart-glasses)
 
 
@@ -263,7 +263,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Sayed Pedram Haeri Boroujeni and Niloufar Mehrabi and Patrick Woods and Gabriel Hillesheim and Abolfazl Razi  
 **BibTeX key:** `boroujeni2026dontwastebitsadaptive`  
 **Link:** [Paper](https://arxiv.org/abs/2604.04722)  
-**GitHub:** [GitHub ⭐ 4](https://github.com/SayedPedramHaeri/Dont-Waste-Bits)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/SayedPedramHaeri/Dont-Waste-Bits)](https://github.com/SayedPedramHaeri/Dont-Waste-Bits)
 **Survey topics:** [Cache Compression](memory-forms.md#cache-compression)
 
 
@@ -286,7 +286,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Chung, H. and Oh, J. and Kyung, D. and Kim, J. and Kwon, Y. and Kim, M.-G. and Choi, E.  
 **BibTeX key:** `chung2026ecg`  
 **Link:** [Paper](https://arxiv.org/abs/2601.20323)  
-**GitHub:** [GitHub ⭐ 10](https://github.com/gustmd0121/ECG-Agent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/gustmd0121/ECG-Agent)](https://github.com/gustmd0121/ECG-Agent)
 **Survey topics:** [Health and Assistive Devices](deployment.md#health-and-assistive-devices)
 
 
@@ -386,7 +386,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Kwon, T. and Choi, D. and Kim, H. and Kim, S. and Moon, S. and Kwak, B.-W. and Huang, K.-H. and Yeo, J.  
 **BibTeX key:** `kwon2026embodied`  
 **Link:** [Paper](https://arxiv.org/abs/2505.16348)  
-**GitHub:** [GitHub ⭐ 26](https://github.com/Connoriginal/MEMENTO)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Connoriginal/MEMENTO)](https://github.com/Connoriginal/MEMENTO)
 **Resources:** [Repository](https://github.com/Connoriginal/MEMENTO)
 **Survey topics:** [Personal Knowledge Graphs](memory-forms.md#personal-knowledge-graphs) · [Personal Reference Resolution](personalization.md#personal-reference-resolution) · [Simulated Environments](deployment.md#simulated-environments) · [Benchmarks](evaluation.md#benchmarks) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
@@ -399,7 +399,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Kim, Minsoo and Kundu, Arnav and Kim, Han-Byul and Dixit, Richa and Cho, Minsik  
 **BibTeX key:** `kim2026epicache`  
 **Link:** [Paper](https://icml.cc/virtual/2026/poster/65405)  
-**GitHub:** [GitHub ⭐ 30](https://github.com/apple-aiml-research/ml-epicache)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/apple-aiml-research/ml-epicache)](https://github.com/apple-aiml-research/ml-epicache)
 **Survey topics:** [Cache Compression](memory-forms.md#cache-compression)
 
 
@@ -411,7 +411,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Zheng, J. and Liu, Z. and Shen, Z. and Qu, J. and Chen, G. and Wang, Y. and Xu, Y. and Liu, Y. and Cheng, S.  
 **BibTeX key:** `zheng2026evaluating`  
 **Link:** [Paper](https://doi.org/10.18653/v1/2026.findings-acl.351)  
-**GitHub:** [GitHub ⭐ 3](https://github.com/RayNeo-AI-2025/LifeDialBench)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/RayNeo-AI-2025/LifeDialBench)](https://github.com/RayNeo-AI-2025/LifeDialBench)
 **Resources:** [Repository](https://github.com/RayNeo-AI-2025/LifeDialBench)
 **Survey topics:** [Lifecycle Management Effectiveness](evaluation.md#lifecycle-management-effectiveness) · [Benchmarks](evaluation.md#benchmarks) · [Reliable Memory Evolution](challenges.md#reliable-memory-evolution) · [Long-Term Evaluation on Real Devices](challenges.md#long-term-evaluation-on-real-devices)
 
@@ -424,7 +424,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Hu, Yuanzhe and Wang, Y. and McAuley, J.  
 **BibTeX key:** `hu2026evaluating`  
 **Link:** [Paper](https://openreview.net/forum?id=DT7JyQC3MR)  
-**GitHub:** [GitHub ⭐ 462](https://github.com/HUST-AI-HYZ/MemoryAgentBench)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench)](https://github.com/HUST-AI-HYZ/MemoryAgentBench)
 **Resources:** [Data](https://huggingface.co/datasets/ai-hyz/MemoryAgentBench) · [Repository](https://github.com/HUST-AI-HYZ/MemoryAgentBench)
 **Survey topics:** [Memory Accuracy](evaluation.md#memory-accuracy) · [Lifecycle Management Effectiveness](evaluation.md#lifecycle-management-effectiveness) · [Benchmarks](evaluation.md#benchmarks) · [General Agent-Memory Benchmarks](evaluation.md#general-agent-memory-benchmarks)
 
@@ -448,7 +448,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Yin, H. and Wen, Z. and Cao, J. and Yuan, B. and Yang, R.  
 **BibTeX key:** `yin2026focal`  
 **Link:** [Paper](https://arxiv.org/abs/2604.19541)  
-**GitHub:** [GitHub ⭐ 0](https://github.com/Haoran2099/focal)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Haoran2099/focal)](https://github.com/Haoran2099/focal)
 **Resources:** [Code](https://github.com/Haoran2099/focal) · [Dataset](https://huggingface.co/datasets/HaoranYin/desktopbench)
 **Survey topics:** [Event Records](memory-forms.md#event-records) · [Hierarchical Summaries](memory-forms.md#hierarchical-summaries) · [Write Admission](lifecycle.md#write-admission) · [Memory Unit](lifecycle.md#memory-unit) · [Provenance](lifecycle.md#provenance) · [Laptops and Desktops](deployment.md#laptops-and-desktops) · [On-Device Runtime Cost](evaluation.md#on-device-runtime-cost) · [Benchmarks](evaluation.md#benchmarks) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks) · [Long-Term Evaluation on Real Devices](challenges.md#long-term-evaluation-on-real-devices)
 
@@ -494,7 +494,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Uddin, M. N. and Shubham, K. and Blanco, E. and Baral, C. and Wang, G.  
 **BibTeX key:** `uddin2026recall`  
 **Link:** [Paper](https://doi.org/10.18653/v1/2026.findings-acl.1337)  
-**GitHub:** [GitHub ⭐ 18](https://github.com/geniesinc/Memora)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/geniesinc/Memora)](https://github.com/geniesinc/Memora)
 **Resources:** [Repository](https://github.com/geniesinc/Memora)
 **Survey topics:** [Lifecycle Management Effectiveness](evaluation.md#lifecycle-management-effectiveness) · [Benchmarks](evaluation.md#benchmarks) · [General Agent-Memory Benchmarks](evaluation.md#general-agent-memory-benchmarks)
 
@@ -507,7 +507,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Changmin Lee and Jaemin Kim and Taesik Gong  
 **BibTeX key:** `lee2026volumevaluepreferencealignedmemory`  
 **Link:** [Paper](https://arxiv.org/abs/2605.18271)  
-**GitHub:** [GitHub ⭐ 0](https://github.com/UbiquitousAILab/EPIC)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/UbiquitousAILab/EPIC)](https://github.com/UbiquitousAILab/EPIC)
 **Survey topics:** [Vector Indexes](memory-forms.md#vector-indexes)
 
 
@@ -519,7 +519,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Nishikawa, Koji and Kato, Makoto P.  
 **BibTeX key:** `nishikawa2026hmaps`  
 **Link:** [Paper](https://doi.org/10.1145/3805712.3808378)  
-**GitHub:** [GitHub ⭐ 0](https://github.com/kasys-lab/H-MAPS)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/kasys-lab/H-MAPS)](https://github.com/kasys-lab/H-MAPS)
 **Survey topics:** [Proactive Assistance](personalization.md#proactive-assistance)
 
 
@@ -531,7 +531,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Shuqi Cao and Jingyi He and Fei Tan  
 **BibTeX key:** `cao2026higmemhierarchicalllmguidedmemory`  
 **Link:** [Paper](https://arxiv.org/abs/2604.18349)  
-**GitHub:** [GitHub ⭐ 8](https://github.com/ZeroLoss-Lab/HiGMem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/ZeroLoss-Lab/HiGMem)](https://github.com/ZeroLoss-Lab/HiGMem)
 **Survey topics:** [Hierarchical Summaries](memory-forms.md#hierarchical-summaries)
 
 
@@ -543,7 +543,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Shan, Baocai and Xu, Yuzhuang and Che, Wanxiang  
 **BibTeX key:** `shan2026huoziime`  
 **Link:** [Paper](https://arxiv.org/abs/2604.14159)  
-**GitHub:** [GitHub ⭐ 16](https://github.com/Shan-HIT/HuoziIME)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Shan-HIT/HuoziIME)](https://github.com/Shan-HIT/HuoziIME)
 **Survey topics:** [Memory Updating](lifecycle.md#memory-updating)
 
 
@@ -555,7 +555,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Xiaochen Zhao and Kaikai Wang and Xiaowen Zhang and Chen Yao and Aili Wang  
 **BibTeX key:** `zhao2026hymemhybridmemoryarchitecture`  
 **Link:** [Paper](https://arxiv.org/abs/2602.13933)  
-**GitHub:** [GitHub ⭐ 29](https://github.com/xiaochenzhao-svg/HyMem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/xiaochenzhao-svg/HyMem)](https://github.com/xiaochenzhao-svg/HyMem)
 **Survey topics:** [Choosing and Combining Memory Forms](memory-forms.md#choosing-and-combining-memory-forms)
 
 
@@ -577,7 +577,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Shenaj, D. and Bohdal, O. and Ceritli, T. and Ozay, M. and Zanuttigh, P. and Michieli, U.  
 **BibTeX key:** `shenaj2026k`  
 **Link:** [Paper](https://doi.org/10.18653/v1/2026.acl-long.137)  
-**GitHub:** [GitHub ⭐ 4](https://github.com/donaldssh/K-Merge)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/donaldssh/K-Merge)](https://github.com/donaldssh/K-Merge)
 **Survey topics:** [Merging Parameter Units](memory-forms.md#merging-parameter-units)
 
 
@@ -589,7 +589,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Liang, K. and Kruk, J. and Qian, S. and Yang, X. and Bi, S. and Yao, Y. and Nie, S. and Zhang, M. and Liu, L. and Fisac, J. F. and Zhou, S. and Hosseini, S.  
 **BibTeX key:** `liang2026learning`  
 **Link:** [Paper](https://arxiv.org/abs/2602.16173)  
-**GitHub:** [GitHub ⭐ 58](https://github.com/facebookresearch/PAHF)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PAHF)](https://github.com/facebookresearch/PAHF)
 **Survey topics:** [User Preferences](personalization.md#user-preferences) · [Continual Personalization](challenges.md#continual-personalization)
 
 
@@ -601,7 +601,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Fang, J. and Deng, X. and Xu, H. and Jiang, Z. and Tang, Y. and Xu, Z. and Deng, S. and Yao, Y. and Wang, M. and Qiao, S. and Chen, H. and Zhang, N.  
 **BibTeX key:** `fang2026lightmem`  
 **Link:** [Paper](https://arxiv.org/abs/2510.18866)  
-**GitHub:** [GitHub ⭐ 1,185](https://github.com/zjunlp/LightMem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/LightMem)](https://github.com/zjunlp/LightMem)
 **Survey topics:** [Memory Updating](lifecycle.md#memory-updating) · [Resource-Aware Lifecycle Management](challenges.md#resource-aware-lifecycle-management)
 
 
@@ -624,7 +624,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wang, Ziyi and Jin, Haonan and Wang, Zian and Wang, Wendong and Zhang, Lanshan  
 **BibTeX key:** `wang2026lightwm`  
 **Link:** [Paper](https://proceedings.mlr.press/v306/wang26cv.html)  
-**GitHub:** [GitHub ⭐ 3](https://github.com/BloomChant/LightWM)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/BloomChant/LightWM)](https://github.com/BloomChant/LightWM)
 **Survey topics:** [Task-State Records](memory-forms.md#task-state-records)
 
 
@@ -647,7 +647,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wu, D. and Ji, Z. and Kawatkar, A. and Kwan, B. and Gu, J.-C. and Peng, N. and Chang, K.-W.  
 **BibTeX key:** `wu2026longmemeval`  
 **Link:** [Paper](https://arxiv.org/abs/2605.12493)  
-**GitHub:** [GitHub ⭐ 177](https://github.com/xiaowu0162/LongMemEval-V2)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/xiaowu0162/LongMemEval-V2)](https://github.com/xiaowu0162/LongMemEval-V2)
 **Resources:** [Data](https://huggingface.co/datasets/xiaowu0162/longmemeval-v2) · [Repository](https://github.com/xiaowu0162/LongMemEval-V2)
 **Survey topics:** [Benchmarks](evaluation.md#benchmarks) · [General Agent-Memory Benchmarks](evaluation.md#general-agent-memory-benchmarks)
 
@@ -660,7 +660,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Sun, L. and Zhang, J. and Wang, S. and Wei, Z.  
 **BibTeX key:** `sun2026magnet`  
 **Link:** [Paper](https://arxiv.org/abs/2601.19199)  
-**GitHub:** [GitHub ⭐ 3](https://github.com/sunlibo2390/MAGNET)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/sunlibo2390/MAGNET)](https://github.com/sunlibo2390/MAGNET)
 **Survey topics:** [Procedural Experience](memory-forms.md#procedural-experience) · [Vector Indexes](memory-forms.md#vector-indexes) · [Choosing and Combining Memory Forms](memory-forms.md#choosing-and-combining-memory-forms) · [Memory Unit](lifecycle.md#memory-unit) · [Memory Consolidation](lifecycle.md#memory-consolidation) · [Smartphones](deployment.md#smartphones) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
 
@@ -672,7 +672,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Zhao, Y. and Zheng, D. and Huang, K. and Wei, Y. and Yang, Z. and Zhou, L.  
 **BibTeX key:** `zhao2026amaskclaw`  
 **Link:** [Paper](https://arxiv.org/abs/2605.28646)  
-**GitHub:** [GitHub ⭐ 13](https://github.com/Theodora-Y/MaskClaw)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Theodora-Y/MaskClaw)](https://github.com/Theodora-Y/MaskClaw)
 **Survey topics:** [Privacy Safeguards](personalization.md#privacy-safeguards)
 
 
@@ -684,7 +684,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wang, S. and Liu, C. and Loo, G. and Zheng, L. and Wei, K. and Zeng, X. and Zhang, J. and Tian, Y.  
 **BibTeX key:** `wang2026me`  
 **Link:** [Paper](https://arxiv.org/abs/2601.20162)  
-**GitHub:** [GitHub ⭐ 2](https://github.com/Gianthaha/personal-mobile-agent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Gianthaha/personal-mobile-agent)](https://github.com/Gianthaha/personal-mobile-agent)
 **Survey topics:** [User Profiles](memory-forms.md#user-profiles) · [User Preferences](personalization.md#user-preferences)
 
 
@@ -696,7 +696,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Shen, Y. and Li, K. and Zhou, W. and Hu, S.  
 **BibTeX key:** `shen2026mem2actbench`  
 **Link:** [Paper](https://doi.org/10.18653/v1/2026.acl-long.370)  
-**GitHub:** [GitHub ⭐ 5](https://github.com/Cantaloupe-M/Mem2ActBench)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Cantaloupe-M/Mem2ActBench)](https://github.com/Cantaloupe-M/Mem2ActBench)
 **Resources:** [Repository](https://github.com/Cantaloupe-M/Mem2ActBench)
 **Survey topics:** [Memory Accuracy](evaluation.md#memory-accuracy) · [Benchmarks](evaluation.md#benchmarks) · [General Agent-Memory Benchmarks](evaluation.md#general-agent-memory-benchmarks)
 
@@ -720,7 +720,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Jiadong Zhang and Xiaosong Ma  
 **BibTeX key:** `zhang2026memarenaegocentricbenchmarkondevice`  
 **Link:** [Paper](https://arxiv.org/abs/2608.02613)  
-**GitHub:** [GitHub ⭐ 1](https://github.com/dereksodo/MemArena-Bench)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/dereksodo/MemArena-Bench)](https://github.com/dereksodo/MemArena-Bench)
 **Resources:** [Anonymous data](https://huggingface.co/datasets/zthsecondantigravity/memarena-l)
 **Survey topics:** [Event Records](memory-forms.md#event-records) · [Benchmarks](evaluation.md#benchmarks)
 
@@ -766,7 +766,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Liu, G. and Zhao, P. and Liang, Y. and Luo, Q. and Tang, S. and Chai, Y. and Lin, W. and Xiao, H. and Wang, W. and Chen, S. and Lu, Z. and Wu, G. and Wang, H. and Liu, L. and Liu, Y.  
 **BibTeX key:** `liu2026memgui`  
 **Link:** [Paper](https://arxiv.org/abs/2602.06075)  
-**GitHub:** [GitHub ⭐ 49](https://github.com/lgy0404/MemGUI-Bench)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/lgy0404/MemGUI-Bench)](https://github.com/lgy0404/MemGUI-Bench)
 **Resources:** [Repository](https://github.com/lgy0404/MemGUI-Bench) · [Tasks](https://huggingface.co/datasets/lgy0404/MemGUI-Bench)
 **Survey topics:** [Benchmarks](evaluation.md#benchmarks) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
@@ -790,7 +790,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Yan, S. and Yang, X. and Huang, Z. and Nie, E. and Ding, Z. and Li, Z. and Ma, X. and Bi, J. and Kersting, K. and Pan, J. Z. and Schuetze, H. and Tresp, V. and Ma, Y.  
 **BibTeX key:** `yan2026memory`  
 **Link:** [Paper](https://doi.org/10.18653/v1/2026.acl-long.583)  
-**GitHub:** [GitHub ⭐ 127](https://github.com/yansikuan/memory-r1)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/yansikuan/memory-r1)](https://github.com/yansikuan/memory-r1)
 **Survey topics:** [Memory Lifecycle Definition](foundations.md#memory-lifecycle-definition) · [Write Admission](lifecycle.md#write-admission) · [Memory Updating](lifecycle.md#memory-updating)
 
 
@@ -802,7 +802,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** He, Z. and Wang, Y. and Zhi, C. and Hu, Y. and Chen, T.-P. and Yin, L. and Chen, Z. and Wu, T. A. and Ouyang, S. and Wang, Z. and Pei, J. and McAuley, J. and Choi, Y. and Pentland, A.  
 **BibTeX key:** `he2026memoryarena`  
 **Link:** [Paper](https://arxiv.org/abs/2602.16313)  
-**GitHub:** [GitHub ⭐ 65](https://github.com/ZexueHe/MemoryArena)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/ZexueHe/MemoryArena)](https://github.com/ZexueHe/MemoryArena)
 **Resources:** [Repository](https://github.com/ZexueHe/MemoryArena)
 **Survey topics:** [Memory Accuracy](evaluation.md#memory-accuracy) · [Benchmarks](evaluation.md#benchmarks) · [General Agent-Memory Benchmarks](evaluation.md#general-agent-memory-benchmarks) · [Long-Term Evaluation on Real Devices](challenges.md#long-term-evaluation-on-real-devices)
 
@@ -815,7 +815,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Ai, Q. and Tang, Y. and Wang, C. and Long, J. and Su, W. and Liu, Y.  
 **BibTeX key:** `ai2026memorybench`  
 **Link:** [Paper](https://arxiv.org/abs/2510.17281)  
-**GitHub:** [GitHub ⭐ 92](https://github.com/THUIR/MemoryBench)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/THUIR/MemoryBench)](https://github.com/THUIR/MemoryBench)
 **Resources:** [Data](https://huggingface.co/datasets/THUIR/MemoryBench) · [Repository](https://github.com/THUIR/MemoryBench)
 **Survey topics:** [Lifecycle Management Effectiveness](evaluation.md#lifecycle-management-effectiveness) · [Benchmarks](evaluation.md#benchmarks) · [General Agent-Memory Benchmarks](evaluation.md#general-agent-memory-benchmarks)
 
@@ -828,7 +828,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Chen, Y. and Zhao, J. and Tang, B. and Wang, H. and Zhang, Y. and Huang, F. and Xiong, F. and Li, Z.  
 **BibTeX key:** `chen2026memprivacy`  
 **Link:** [Paper](https://arxiv.org/abs/2605.09530)  
-**GitHub:** [GitHub ⭐ 123](https://github.com/MemTensor/MemPrivacy)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/MemPrivacy)](https://github.com/MemTensor/MemPrivacy)
 **Survey topics:** [Privacy Safeguards](personalization.md#privacy-safeguards) · [Personalization Quality](evaluation.md#personalization-quality) · [Privacy Protection in Memory Use](challenges.md#privacy-protection-in-memory-use)
 
 
@@ -840,7 +840,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Sun, Lizheng  
 **BibTeX key:** `sun2026memx`  
 **Link:** [Paper](https://arxiv.org/abs/2603.16171)  
-**GitHub:** [GitHub ⭐ 5](https://github.com/memxlab/memx)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/memxlab/memx)](https://github.com/memxlab/memx)
 **Survey topics:** [Post-Retrieval Evidence Reduction](lifecycle.md#post-retrieval-evidence-reduction)
 
 
@@ -852,7 +852,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Darwin Agent Team  
 **BibTeX key:** `darwin2026mimemory`  
 **Link:** [Paper](https://arxiv.org/abs/2607.18975)  
-**GitHub:** [GitHub ⭐ 30](https://github.com/Darwin-Agent/Mi-Memory)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Darwin-Agent/Mi-Memory)](https://github.com/Darwin-Agent/Mi-Memory)
 **Survey topics:** [Privacy Safeguards](personalization.md#privacy-safeguards)
 
 
@@ -886,7 +886,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Deng, X. and Xue, Y. and Chen, Y. and Mao, M. and Zhong, R. and Xu, B. and Fang, J. and Xu, H. and Wu, T. and Xu, Y. and Deng, S. and Wang, H. and Chen, H. and Zhang, N.  
 **BibTeX key:** `deng2026mobilemem`  
 **Link:** [Paper](https://openreview.net/forum?id=w5I11HrMgJ)  
-**GitHub:** [GitHub ⭐ 28](https://github.com/zjunlp/MobileMem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/MobileMem)](https://github.com/zjunlp/MobileMem)
 **Resources:** [Data](https://huggingface.co/datasets/zjunlp/MobileMem) · [Repository](https://github.com/zjunlp/MobileMem)
 **Survey topics:** [Benchmarks](evaluation.md#benchmarks) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
@@ -899,7 +899,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Deng, Xinle and Xue, Yida and Ru, Xiangyuan and Chen, Yijun and Xu, Buqiang and Mao, Mingjun and Liu, Xinjie and Xu, Haoming and Qiao, Shuofei and Wang, Mengru and Jiang, Chen and Jiang, Yuchen Eleanor and Wang, Lizhong and Wang, Jason and Zeng, Li and Wang, Haofen and Qi, Guilin and Chen, Huajun and Zhang, Ningyu  
 **BibTeX key:** `deng2026mobilememyear`  
 **Link:** [Paper](https://arxiv.org/abs/2608.13606)  
-**GitHub:** [GitHub ⭐ 28](https://github.com/zjunlp/MobileMem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/MobileMem)](https://github.com/zjunlp/MobileMem)
 **Resources:** [Data](https://huggingface.co/datasets/zjunlp/MobileMem) · [Repository](https://github.com/zjunlp/MobileMem)
 **Survey topics:** [Benchmarks](evaluation.md#benchmarks) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
@@ -934,7 +934,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Hu, Y. and Long, Z. and Guo, J. and Sui, X. and Fu, X. and Zhao, W. and Zhao, Y. and Qin, B.  
 **BibTeX key:** `hu2026op`  
 **Link:** [Paper](https://arxiv.org/abs/2601.13722)  
-**GitHub:** [GitHub ⭐ 5](https://github.com/yulinlp/OP-Bench)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/yulinlp/OP-Bench)](https://github.com/yulinlp/OP-Bench)
 **Survey topics:** [Personalization Quality](evaluation.md#personalization-quality) · [Continual Personalization](challenges.md#continual-personalization)
 
 
@@ -957,7 +957,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Saad-Falcon, J. and Narayan, A. and Manihani, R. and Bhathal, T. and Shandilya, H. and Akengin, H. O. and Bo, G. and Park, A. and Hart, M. and Costello, C. and Li, C. and Ré, C. and Mirhoseini, A.  
 **BibTeX key:** `saadfalcon2026openjarvis`  
 **Link:** [Paper](https://arxiv.org/abs/2605.17172)  
-**GitHub:** [GitHub ⭐ 10,732](https://github.com/open-jarvis/OpenJarvis)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/open-jarvis/OpenJarvis)](https://github.com/open-jarvis/OpenJarvis)
 **Survey topics:** [Privacy Safeguards](personalization.md#privacy-safeguards)
 
 
@@ -969,7 +969,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Cai, Hongru and Li, Yongqi and Wei, Ran and Li, Wenjie  
 **BibTeX key:** `cai2026palmclaw`  
 **Link:** [Paper](https://arxiv.org/abs/2607.13027)  
-**GitHub:** [GitHub ⭐ 1,166](https://github.com/ModalityDance/PalmClaw)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/ModalityDance/PalmClaw)](https://github.com/ModalityDance/PalmClaw)
 **Survey topics:** [Smartphones](deployment.md#smartphones)
 
 
@@ -992,7 +992,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Liu, S. and Zhu, J. and Shu, L. and Lin, J. and Chen, Y. and Zhang, H. and Zhang, C. and Xu, D. and Li, J. and Tang, B. and Li, Z. and Xiong, F. and Chen, E. and Xu, T.  
 **BibTeX key:** `liu2026perma`  
 **Link:** [Paper](https://arxiv.org/abs/2603.23231)  
-**GitHub:** [GitHub ⭐ 9](https://github.com/MINE-USTC/PERMA)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/MINE-USTC/PERMA)](https://github.com/MINE-USTC/PERMA)
 **Survey topics:** [User Preferences](personalization.md#user-preferences) · [Lifecycle Management Effectiveness](evaluation.md#lifecycle-management-effectiveness) · [Continual Personalization](challenges.md#continual-personalization) · [Long-Term Evaluation on Real Devices](challenges.md#long-term-evaluation-on-real-devices)
 
 
@@ -1004,7 +1004,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Lyu, Y. and Chen, G. and Shao, R. and Guan, W. and Nie, L.  
 **BibTeX key:** `lyu2026personalalign`  
 **Link:** [Paper](https://doi.org/10.18653/v1/2026.acl-long.1669)  
-**GitHub:** [GitHub ⭐ 30](https://github.com/iLearn-Lab/ACL26-PersonalAlign)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/iLearn-Lab/ACL26-PersonalAlign)](https://github.com/iLearn-Lab/ACL26-PersonalAlign)
 **Resources:** [Repository](https://github.com/iLearn-Lab/ACL26-PersonalAlign)
 **Survey topics:** [User Profiles](memory-forms.md#user-profiles) · [User Preferences](personalization.md#user-preferences) · [Proactive Assistance](personalization.md#proactive-assistance) · [Personalization Quality](evaluation.md#personalization-quality) · [Benchmarks](evaluation.md#benchmarks) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
@@ -1017,7 +1017,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Liu, G. and Gabriel, S.  
 **BibTeX key:** `liu2026pm`  
 **Link:** [Paper](https://arxiv.org/abs/2607.12385)  
-**GitHub:** [GitHub ⭐ 5](https://github.com/genglinliu/PMBench)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/genglinliu/PMBench)](https://github.com/genglinliu/PMBench)
 **Resources:** [Repository](https://github.com/genglinliu/PMBench)
 **Survey topics:** [Lifecycle Management Effectiveness](evaluation.md#lifecycle-management-effectiveness) · [Benchmarks](evaluation.md#benchmarks) · [General Agent-Memory Benchmarks](evaluation.md#general-agent-memory-benchmarks)
 
@@ -1030,7 +1030,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Patel, Ishan and Joshi, Ishan  
 **BibTeX key:** `10.5281/zenodo.19686729`  
 **Link:** [Paper](https://doi.org/10.5281/ZENODO.19686729)  
-**GitHub:** [GitHub ⭐ 12](https://github.com/ishan1410/PolyKV)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/ishan1410/PolyKV)](https://github.com/ishan1410/PolyKV)
 **Survey topics:** [Cache Compression](memory-forms.md#cache-compression)
 
 
@@ -1053,7 +1053,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Malo, Ripon Chandra and Qiu, Tong  
 **BibTeX key:** `malo2026projectmem`  
 **Link:** [Paper](https://arxiv.org/abs/2606.12329)  
-**GitHub:** [GitHub ⭐ 852](https://github.com/riponcm/projectmem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/riponcm/projectmem)](https://github.com/riponcm/projectmem)
 **Survey topics:** [Procedural Experience](memory-forms.md#procedural-experience)
 
 
@@ -1099,7 +1099,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Fang, Yichu and Wei, Sitong and Hu, Haozhe and Shen, Xiaoyu  
 **BibTeX key:** `fang2026recache`  
 **Link:** [Paper](https://arxiv.org/abs/2608.19662)  
-**GitHub:** [GitHub ⭐ 14](https://github.com/EIT-NLP/ReCache)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/EIT-NLP/ReCache)](https://github.com/EIT-NLP/ReCache)
 **Survey topics:** [Cache Reuse](memory-forms.md#cache-reuse)
 
 
@@ -1111,7 +1111,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Xu, Haichuan and Oygenblik, David and Zhang, Runze and Yao, Mingxuan and Ibrahim, Muhammad and Saltaformaggio, Brendan  
 **BibTeX key:** `xu2026orisa`  
 **Link:** [Paper](https://doi.org/10.1109/SP63933.2026.00252)  
-**GitHub:** [GitHub ⭐ 1](https://github.com/CyFI-Lab-Public/ORISA)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/CyFI-Lab-Public/ORISA)](https://github.com/CyFI-Lab-Public/ORISA)
 **Survey topics:** [Privacy Safeguards](personalization.md#privacy-safeguards)
 
 
@@ -1123,7 +1123,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Shu, Y. and Jonnalagedda, S. P. and Gao, X. and Gutiérrez, B. J. and Qi, W. and Das, K. and Sun, H. and Su, Y.  
 **BibTeX key:** `shu2026remem`  
 **Link:** [Paper](https://arxiv.org/abs/2602.13530)  
-**GitHub:** [GitHub ⭐ 30](https://github.com/intuit-ai-research/REMem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/intuit-ai-research/REMem)](https://github.com/intuit-ai-research/REMem)
 **Survey topics:** [Memory Routing](lifecycle.md#memory-routing)
 
 
@@ -1157,7 +1157,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wang, X. and Zhao, X. and Rodriguez, P. and Sachan, D. S. and Oguz, B. and Moon, S. and Li, S.-W. and Ghosh, G. and Dong, X. and Yih, W.-T.  
 **BibTeX key:** `wang2026s`  
 **Link:** [Paper](https://arxiv.org/abs/2607.02689)  
-**GitHub:** [GitHub ⭐ 8](https://github.com/facebookresearch/S-EMBER)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/S-EMBER)](https://github.com/facebookresearch/S-EMBER)
 **Resources:** [Data](https://huggingface.co/datasets/facebook/S-EMBER) · [Repository](https://github.com/facebookresearch/S-EMBER)
 **Survey topics:** [Lifecycle Management Effectiveness](evaluation.md#lifecycle-management-effectiveness) · [Benchmarks](evaluation.md#benchmarks)
 
@@ -1214,7 +1214,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Quqing Zhang and Kai Chen and Ning Liao and Zehao Lin and Bo Tang and Feiyu Xiong and Zhiyu Li and Xiaoxing Wang  
 **BibTeX key:** `zhang2026sparsexefficientsegmentlevelkv`  
 **Link:** [Paper](https://arxiv.org/abs/2606.01751)  
-**GitHub:** [GitHub ⭐ 5](https://github.com/MemTensor/SparseX)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/SparseX)](https://github.com/MemTensor/SparseX)
 **Survey topics:** [Cache Reuse](memory-forms.md#cache-reuse)
 
 
@@ -1249,7 +1249,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Yuan, M. and Zhang, H. and Mohammadi, M. and Li, R. and Shan, J. and Waslander, S. L.  
 **BibTeX key:** `yuan2026star`  
 **Link:** [Paper](https://doi.org/10.1109/LRA.2026.3677723)  
-**GitHub:** [GitHub ⭐ 13](https://github.com/TRAILab/STaR)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/TRAILab/STaR)](https://github.com/TRAILab/STaR)
 **Survey topics:** [Vector Indexes](memory-forms.md#vector-indexes) · [Physical Robots](deployment.md#physical-robots) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
 
@@ -1283,7 +1283,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Bhardwaj, Varun Pratap and Singh, Garima and Bhardwaj, Arun Pratap  
 **BibTeX key:** `bhardwaj2026superlocalmemory4`  
 **Link:** [Paper](https://arxiv.org/abs/2608.08253)  
-**GitHub:** [GitHub ⭐ 227](https://github.com/qualixar/superlocalmemory)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/qualixar/superlocalmemory)](https://github.com/qualixar/superlocalmemory)
 **Survey topics:** [Privacy Safeguards](personalization.md#privacy-safeguards)
 
 
@@ -1295,7 +1295,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Bhardwaj, Varun Pratap  
 **BibTeX key:** `bhardwaj2026superlocalmemory33`  
 **Link:** [Paper](https://arxiv.org/abs/2604.04514)  
-**GitHub:** [GitHub ⭐ 227](https://github.com/qualixar/superlocalmemory)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/qualixar/superlocalmemory)](https://github.com/qualixar/superlocalmemory)
 **Survey topics:** [Selective Forgetting](lifecycle.md#selective-forgetting)
 
 
@@ -1307,7 +1307,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Bhardwaj, V. P.  
 **BibTeX key:** `bhardwaj2026superlocalmemory`  
 **Link:** [Paper](https://arxiv.org/abs/2603.02240)  
-**GitHub:** [GitHub ⭐ 227](https://github.com/qualixar/superlocalmemory)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/qualixar/superlocalmemory)](https://github.com/qualixar/superlocalmemory)
 **Survey topics:** [Lightweight Structured Memory](memory-forms.md#lightweight-structured-memory) · [Privacy Safeguards](personalization.md#privacy-safeguards) · [Privacy Protection in Memory Use](challenges.md#privacy-protection-in-memory-use)
 
 
@@ -1352,7 +1352,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Stocker, Felix  
 **BibTeX key:** `stocker2026persistentcase`  
 **Link:** [Paper](https://arxiv.org/abs/2606.05250)  
-**GitHub:** [GitHub ⭐ 0](https://github.com/stofe94/cbr-rd-agent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/stofe94/cbr-rd-agent)](https://github.com/stofe94/cbr-rd-agent)
 **Survey topics:** [Write Admission](lifecycle.md#write-admission)
 
 
@@ -1364,7 +1364,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Merrill, M. A. and Paruchuri, A. and Rezaei, N. and Kovacs, G. and Perez, J. and Liu, Y. and Schenck, E. and Hammerquist, N. and Sunshine, J. and Tailor, S. and Ayush, K. and Su, H.-W. and He, Q. and McLean, C. Y. and Malhotra, M. and Patel, S. and Zhan, J. and Althoff, T. and McDuff, D. and Liu, X.  
 **BibTeX key:** `merrill2026transforming`  
 **Link:** [Paper](https://doi.org/10.1038/s41467-025-67922-y)  
-**GitHub:** [GitHub ⭐ 69](https://github.com/yahskapar/personal-health-insights-agent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/yahskapar/personal-health-insights-agent)](https://github.com/yahskapar/personal-health-insights-agent)
 **Survey topics:** [Health and Assistive Devices](deployment.md#health-and-assistive-devices) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
 
@@ -1455,7 +1455,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Liu, C. and Yang, Y. and Pu, S. X. and Liu, Y. and Long, L. and Guo, Y. and Chen, N. and Weng, Z. and Kochkina, E. and Kaur, S. and Smiley, C. and Liu, X. and Zou, J. and Liu, S. and Bu, Y. and Peng, S. and Wang, X. E.  
 **BibTeX key:** `liu2026bworldmemarena`  
 **Link:** [Paper](https://arxiv.org/abs/2605.29341)  
-**GitHub:** [GitHub ⭐ 29](https://github.com/UCSB-AI/WorldMemArena)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/UCSB-AI/WorldMemArena)](https://github.com/UCSB-AI/WorldMemArena)
 **Resources:** [Data](https://huggingface.co/datasets/LCZZZZ/WorldMemArena) · [Repository](https://github.com/UCSB-AI/WorldMemArena)
 **Survey topics:** [Lifecycle Management Effectiveness](evaluation.md#lifecycle-management-effectiveness) · [Benchmarks](evaluation.md#benchmarks) · [General Agent-Memory Benchmarks](evaluation.md#general-agent-memory-benchmarks)
 
@@ -1468,7 +1468,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Maheri, M. M. and Cotterill, S. and Davidson, A. and Haddadi, H.  
 **BibTeX key:** `maheri2026zk`  
 **Link:** [Paper](https://arxiv.org/abs/2512.09953)  
-**GitHub:** [GitHub ⭐ 1](https://github.com/mammadmaheri7/ZK-APEX)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/mammadmaheri7/ZK-APEX)](https://github.com/mammadmaheri7/ZK-APEX)
 **Survey topics:** [Machine Unlearning](lifecycle.md#machine-unlearning) · [Verifiable Forgetting](challenges.md#verifiable-forgetting)
 
 
@@ -1483,7 +1483,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Sizhe Zhou and Jiawei Han  
 **BibTeX key:** `zhou2025simplestrongbaselinelongterm`  
 **Link:** [Paper](https://arxiv.org/abs/2511.17208)  
-**GitHub:** [GitHub ⭐ 16](https://github.com/KevinSRR/EMem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/KevinSRR/EMem)](https://github.com/KevinSRR/EMem)
 **Survey topics:** [Event Records](memory-forms.md#event-records)
 
 
@@ -1495,7 +1495,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Zhang, Zeyu and Dai, Quanyu and Bo, Xiaohe and Ma, Chen and Li, Rui and Chen, Xu and Zhu, Jieming and Dong, Zhenhua and Wen, Ji-Rong  
 **BibTeX key:** `zhang2025memorysurvey`  
 **Link:** [Paper](https://doi.org/10.1145/3748302)  
-**GitHub:** [GitHub ⭐ 511](https://github.com/nuster1128/LLM_Agent_Memory_Survey)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/nuster1128/LLM_Agent_Memory_Survey)](https://github.com/nuster1128/LLM_Agent_Memory_Survey)
 **Survey topics:** [Agent Memory](foundations.md#agent-memory)
 
 
@@ -1507,7 +1507,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Xu, W. and Liang, Z. and Mei, K. and Gao, H. and Tan, J. and Zhang, Y.  
 **BibTeX key:** `xu2025mem`  
 **Link:** [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/19909c36f51abc4856b4560aff3d36d6-Abstract-Conference.html)  
-**GitHub:** [GitHub ⭐ 1,192](https://github.com/agiresearch/A-mem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/A-mem)](https://github.com/agiresearch/A-mem)
 **Survey topics:** [Formulation](foundations.md#formulation) · [Memory Lifecycle Definition](foundations.md#memory-lifecycle-definition) · [Memory Consolidation](lifecycle.md#memory-consolidation)
 
 
@@ -1519,7 +1519,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wang, Zora Zhiruo and Mao, Jiayuan and Fried, Daniel and Neubig, Graham  
 **BibTeX key:** `wang2025awm`  
 **Link:** [Paper](https://proceedings.mlr.press/v267/wang25bx.html)  
-**GitHub:** [GitHub ⭐ 477](https://github.com/zorazrw/agent-workflow-memory)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory)](https://github.com/zorazrw/agent-workflow-memory)
 **Survey topics:** [Agent Memory](foundations.md#agent-memory)
 
 
@@ -1531,7 +1531,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Rawles, C. and Clinckemaillie, S. and Chang, Y. and Waltz, J. and Lau, G. and Fair, M. and Li, A. and Bishop, W. and Li, W. and Campbell-Ajala, F. and Toyama, D. and Berry, R. and Tyamagundlu, D. and Lillicrap, T. and Riva, O.  
 **BibTeX key:** `rawles2025androidworld`  
 **Link:** [Paper](https://arxiv.org/abs/2405.14573)  
-**GitHub:** [GitHub ⭐ 945](https://github.com/google-research/android_world)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/google-research/android_world)](https://github.com/google-research/android_world)
 **Survey topics:** [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
 
@@ -1554,7 +1554,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wu, W. and Zhou, K. and Yuan, R. and Yu, V. and Wang, S. and Hu, Z. and Huang, B.  
 **BibTeX key:** `wu2025auto`  
 **Link:** [Paper](https://arxiv.org/abs/2510.09038)  
-**GitHub:** [GitHub ⭐ 30](https://github.com/WenyiWU0111/CoMEM-Agent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/WenyiWU0111/CoMEM-Agent)](https://github.com/WenyiWU0111/CoMEM-Agent)
 **Survey topics:** [Compressed Embeddings](memory-forms.md#compressed-embeddings)
 
 
@@ -1577,7 +1577,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Vekaria, Yash and Canino, Aurelio Loris and Levitsky, Jonathan and Ciechonski, Alex and Callejo, Patricia and Mandalari, Anna Maria and Shafiq, Zubair  
 **BibTeX key:** `vekaria2025bighelp`  
 **Link:** [Paper](https://www.usenix.org/conference/usenixsecurity25/presentation/vekaria)  
-**GitHub:** [GitHub ⭐ 2](https://github.com/Yash-Vekaria/genai-assistants)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Yash-Vekaria/genai-assistants)](https://github.com/Yash-Vekaria/genai-assistants)
 **Survey topics:** [Privacy Safeguards](personalization.md#privacy-safeguards)
 
 
@@ -1600,7 +1600,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Rui Li and Zeyu Zhang and Xiaohe Bo and Zihang Tian and Xu Chen and Quanyu Dai and Zhenhua Dong and Ruiming Tang  
 **BibTeX key:** `li2025camconstructivistviewagentic`  
 **Link:** [Paper](https://arxiv.org/abs/2510.05520)  
-**GitHub:** [GitHub ⭐ 22](https://github.com/rui9812/CAM)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/rui9812/CAM)](https://github.com/rui9812/CAM)
 **Survey topics:** [Hierarchical Summaries](memory-forms.md#hierarchical-summaries)
 
 
@@ -1612,7 +1612,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Kirmayr, Johannes and Stappen, Lukas and Schneider, Phillip and Matthes, Florian and André, Elisabeth  
 **BibTeX key:** `kirmayr2025carmem`  
 **Link:** [Paper](https://arxiv.org/abs/2501.09645)  
-**GitHub:** [GitHub ⭐ 9](https://github.com/johanneskirmayr/CarMem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/johanneskirmayr/CarMem)](https://github.com/johanneskirmayr/CarMem)
 **Survey topics:** [Write Admission](lifecycle.md#write-admission)
 
 
@@ -1657,7 +1657,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Yang, B. and Xu, L. and Zeng, L. and Liu, K. and Jiang, S. and Lu, W. and Chen, H. and Jiang, X. and Xing, G. and Yan, Z.  
 **BibTeX key:** `yang2025contextagent`  
 **Link:** [Paper](https://arxiv.org/abs/2505.14668)  
-**GitHub:** [GitHub ⭐ 53](https://github.com/openaiotlab/ContextAgent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/openaiotlab/ContextAgent)](https://github.com/openaiotlab/ContextAgent)
 **Survey topics:** [Proactive Assistance](personalization.md#proactive-assistance)
 
 
@@ -1691,7 +1691,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Yang, Z. and Zheng, S. and Xie, T. and Xu, T. and Yu, B. and Wang, F. and Tang, J. and Liu, S. and Li, M.  
 **BibTeX key:** `yang2025efficientnav`  
 **Link:** [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/067437c6d5d0369b6d09200bef89715b-Abstract-Conference.html)  
-**GitHub:** [GitHub ⭐ 17](https://github.com/PKU-SEC-Lab/EfficientNav)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/PKU-SEC-Lab/EfficientNav)](https://github.com/PKU-SEC-Lab/EfficientNav)
 **Survey topics:** [Cache Reuse](memory-forms.md#cache-reuse) · [Retrieval Triggering](lifecycle.md#retrieval-triggering) · [Memory Routing](lifecycle.md#memory-routing) · [Physical Robots](deployment.md#physical-robots)
 
 
@@ -1703,7 +1703,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Yang, J. and Liu, S. and Guo, H. and Dong, Y. and Zhang, X. and Zhang, S. and Wang, P. and Zhou, Z. and Xie, B. and Wang, Z. and Ouyang, B. and Lin, Z. and Cominelli, M. and Cai, Z. and Zhang, Y. and Zhang, P. and Hong, F. and Widmer, J. and Gringoli, F. and others  
 **BibTeX key:** `yang2025egolife`  
 **Link:** [Paper](https://arxiv.org/abs/2503.03803)  
-**GitHub:** [GitHub ⭐ 467](https://github.com/EvolvingLMMs-Lab/EgoLife)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/EgoLife)](https://github.com/EvolvingLMMs-Lab/EgoLife)
 **Resources:** [Data collection](https://huggingface.co/collections/lmms-lab/egolife) · [Repository](https://github.com/EvolvingLMMs-Lab/EgoLife)
 **Survey topics:** [Agent Memory](foundations.md#agent-memory) · [Event Records](memory-forms.md#event-records) · [Hierarchical Summaries](memory-forms.md#hierarchical-summaries) · [Smart Glasses](deployment.md#smart-glasses) · [Benchmarks](evaluation.md#benchmarks) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
@@ -1716,7 +1716,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Paruchuri, A. and Hersek, S. and Aggarwal, L. and Yang, Q. and Liu, X. and Kulshrestha, A. and Colaco, A. and Fuchs, H. and Chatterjee, I.  
 **BibTeX key:** `paruchuri2025egotrigger`  
 **Link:** [Paper](https://arxiv.org/abs/2508.01915)  
-**GitHub:** [GitHub ⭐ 5](https://github.com/yahskapar/EgoTrigger)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/yahskapar/EgoTrigger)](https://github.com/yahskapar/EgoTrigger)
 **Resources:** [Repository](https://github.com/yahskapar/EgoTrigger)
 **Survey topics:** [Write Admission](lifecycle.md#write-admission) · [Smart Glasses](deployment.md#smart-glasses) · [Benchmarks](evaluation.md#benchmarks) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
@@ -1773,7 +1773,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Hu, M. and Chen, T. and Chen, Q. and Mu, Y. and Shao, W. and Luo, P.  
 **BibTeX key:** `hu2025hiagent`  
 **Link:** [Paper](https://doi.org/10.18653/v1/2025.acl-long.1575)  
-**GitHub:** [GitHub ⭐ 74](https://github.com/HiAgent2024/HiAgent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/HiAgent2024/HiAgent)](https://github.com/HiAgent2024/HiAgent)
 **Survey topics:** [Agent Memory](foundations.md#agent-memory) · [Memory Lifecycle Definition](foundations.md#memory-lifecycle-definition) · [Hierarchical Summaries](memory-forms.md#hierarchical-summaries) · [Post-Retrieval Evidence Reduction](lifecycle.md#post-retrieval-evidence-reduction)
 
 
@@ -1807,7 +1807,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Kim, Minsoo and Shim, Kyuhong and Choi, Jungwook and Chang, Simyung  
 **BibTeX key:** `kim2025infinipotv`  
 **Link:** [Paper](https://neurips.cc/virtual/2025/poster/116667)  
-**GitHub:** [GitHub ⭐ 24](https://github.com/aiha-lab/InfiniPot-V)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/aiha-lab/InfiniPot-V)](https://github.com/aiha-lab/InfiniPot-V)
 **Survey topics:** [Cache Compression](memory-forms.md#cache-compression)
 
 
@@ -1819,7 +1819,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Hancheng Ye and Zhengqi Gao and Mingyuan Ma and Qinsi Wang and Yuzhe Fu and Ming-Yu Chung and Yueqian Lin and Zhijian Liu and Jianyi Zhang and Danyang Zhuo and Yiran Chen  
 **BibTeX key:** `ye2025kvcommonlinecrosscontextkvcache`  
 **Link:** [Paper](https://arxiv.org/abs/2510.12872)  
-**GitHub:** [GitHub ⭐ 192](https://github.com/FastMAS/KVCOMM)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/FastMAS/KVCOMM)](https://github.com/FastMAS/KVCOMM)
 **Survey topics:** [Cache Reuse](memory-forms.md#cache-reuse)
 
 
@@ -1853,7 +1853,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wang, Y. and Li, Z. and Liu, S. and Wu, Y. and Mao, Z. and Zhao, Y. and Yan, X. and Xu, Z. and Zhou, Y. and Stoica, I. and Min, S. and Zaharia, M. and Gonzalez, J. E.  
 **BibTeX key:** `wang2025leann`  
 **Link:** [Paper](https://arxiv.org/abs/2506.08276)  
-**GitHub:** [GitHub ⭐ 13,014](https://github.com/StarTrail-org/LEANN)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/StarTrail-org/LEANN)](https://github.com/StarTrail-org/LEANN)
 **Survey topics:** [Vector Indexes](memory-forms.md#vector-indexes) · [Laptops and Desktops](deployment.md#laptops-and-desktops)
 
 
@@ -1865,7 +1865,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wu, D. and Wang, H. and Yu, W. and Zhang, Y. and Chang, K.-W. and Yu, D.  
 **BibTeX key:** `wu2025longmemeval`  
 **Link:** [Paper](https://arxiv.org/abs/2410.10813)  
-**GitHub:** [GitHub ⭐ 1,131](https://github.com/xiaowu0162/LongMemEval)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/xiaowu0162/LongMemEval)](https://github.com/xiaowu0162/LongMemEval)
 **Resources:** [Data](https://huggingface.co/datasets/xiaowu0162/longmemeval-cleaned) · [Repository](https://github.com/xiaowu0162/LongMemEval)
 **Survey topics:** [Memory Accuracy](evaluation.md#memory-accuracy) · [Benchmarks](evaluation.md#benchmarks) · [General Agent-Memory Benchmarks](evaluation.md#general-agent-memory-benchmarks)
 
@@ -1878,7 +1878,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Chhikara, P. and Khant, D. and Aryan, S. and Singh, T. and Yadav, D.  
 **BibTeX key:** `chhikara2025mem0`  
 **Link:** [Paper](https://arxiv.org/abs/2504.19413)  
-**GitHub:** [GitHub ⭐ 66,763](https://github.com/mem0ai/mem0)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0)](https://github.com/mem0ai/mem0)
 **Survey topics:** [Memory Updating](lifecycle.md#memory-updating)
 
 
@@ -1890,7 +1890,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Tan, H. and Zhang, Z. and Ma, C. and Chen, X. and Dai, Q. and Dong, Z.  
 **BibTeX key:** `tan2025membench`  
 **Link:** [Paper](https://doi.org/10.18653/v1/2025.findings-acl.989)  
-**GitHub:** [GitHub ⭐ 62](https://github.com/import-myself/Membench)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/import-myself/Membench)](https://github.com/import-myself/Membench)
 **Resources:** [Repository](https://github.com/import-myself/Membench)
 **Survey topics:** [Memory Accuracy](evaluation.md#memory-accuracy) · [Benchmarks](evaluation.md#benchmarks) · [General Agent-Memory Benchmarks](evaluation.md#general-agent-memory-benchmarks)
 
@@ -1903,7 +1903,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Du, Y. and Wang, B. and He, Y. and Liang, B. and Wang, B. and Li, Z. and Gui, L. and Pan, J. Z. and Xu, R. and Wong, K.-F.  
 **BibTeX key:** `du2025memguide`  
 **Link:** [Paper](https://arxiv.org/abs/2505.20231)  
-**GitHub:** [GitHub ⭐ 9](https://github.com/Elvin-Yiming-Du/MS_TOD_Memory)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Elvin-Yiming-Du/MS_TOD_Memory)](https://github.com/Elvin-Yiming-Du/MS_TOD_Memory)
 **Survey topics:** [Post-Retrieval Evidence Reduction](lifecycle.md#post-retrieval-evidence-reduction)
 
 
@@ -1926,7 +1926,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Gupta, G. and Yadav, K. and Kira, Z. and Gal, Y. and Aljundi, R.  
 **BibTeX key:** `gupta2025memo`  
 **Link:** [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/96889893231d651898b0de42fdbee3a6-Abstract-Conference.html)  
-**GitHub:** [GitHub ⭐ 16](https://github.com/gunshi/memo)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/gunshi/memo)](https://github.com/gunshi/memo)
 **Survey topics:** [Simulated Environments](deployment.md#simulated-environments)
 
 
@@ -1938,7 +1938,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Hu, Yuyang and Liu, Shichun and Yue, Yanwei and Zhang, Guibin and Liu, Boyang and Zhu, Fangyi and Lin, Jiahang and Guo, Honglin and Dou, Shihan and Xi, Zhiheng and Jin, Senjie and Tan, Jiejun and Yin, Yanbin and Liu, Jiongnan and Zhang, Zeyu and Sun, Zhongxiang and Zhu, Yutao and Sun, Hao and Peng, Boci and Cheng, Zhenrong and Fan, Xuanbo and Guo, Jiaxin and Yu, Xinlei and Zhou, Zhenhong and Hu, Zewen and Huo, Jiahao and Wang, Junhao and Niu, Yuwei and Wang, Yu and Yin, Zhenfei and Hu, Xiaobin and Liao, Yue and Li, Qiankun and Wang, Kun and Zhou, Wangchunshu and Liu, Yixin and Cheng, Dawei and Zhang, Qi and Gui, Tao and Pan, Shirui and Zhang, Yan and Torr, Philip and Dou, Zhicheng and Wen, Ji-Rong and Huang, Xuanjing and Jiang, Yu-Gang and Yan, Shuicheng  
 **BibTeX key:** `hu2025memoryage`  
 **Link:** [Paper](https://arxiv.org/abs/2512.13564)  
-**GitHub:** [GitHub ⭐ 2,415](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Shichun-Liu/Agent-Memory-Paper-List)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
 **Survey topics:** [Agent Memory](foundations.md#agent-memory) · [Memory Lifecycle Definition](foundations.md#memory-lifecycle-definition)
 
 
@@ -1950,7 +1950,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Kang, J. and Ji, M. and Zhao, Z. and Bai, T.  
 **BibTeX key:** `kang2025memory`  
 **Link:** [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1318)  
-**GitHub:** [GitHub ⭐ 1,593](https://github.com/BAI-LAB/MemoryOS)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/BAI-LAB/MemoryOS)](https://github.com/BAI-LAB/MemoryOS)
 **Survey topics:** [Memory Lifecycle Definition](foundations.md#memory-lifecycle-definition) · [Selective Forgetting](lifecycle.md#selective-forgetting)
 
 
@@ -1962,7 +1962,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Jiang, H. and Zhang, X. and Garg, S. and Arora, R. and Kuo, S.-Z. and Xu, J. and Bansal, A. and Brossman, C. and Liu, Y. and Colak, A. and Aly, A. and Kumar, A. and Dong, X. L.  
 **BibTeX key:** `jiang2025bmemory`  
 **Link:** [Paper](https://arxiv.org/abs/2509.18436)  
-**GitHub:** [GitHub ⭐ 9](https://github.com/facebookresearch/MemoryQA)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/MemoryQA)](https://github.com/facebookresearch/MemoryQA)
 **Resources:** [Repository](https://github.com/facebookresearch/MemoryQA)
 **Survey topics:** [Benchmarks](evaluation.md#benchmarks) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
@@ -1986,7 +1986,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wang, Y. and Chen, X.  
 **BibTeX key:** `wang2025mirix`  
 **Link:** [Paper](https://arxiv.org/abs/2507.07957)  
-**GitHub:** [GitHub ⭐ 3,449](https://github.com/Mirix-AI/MIRIX)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Mirix-AI/MIRIX)](https://github.com/Mirix-AI/MIRIX)
 **Survey topics:** [Event Records](memory-forms.md#event-records)
 
 
@@ -2020,7 +2020,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Loo, Gowen and Liu, Chang and Yin, Qinghong and Chen, Xiang and Chen, Jiawei and Zhang, Jingyuan and Tian, Yu  
 **BibTeX key:** `loo2025mobileragagent`  
 **Link:** [Paper](https://arxiv.org/abs/2509.03891)  
-**GitHub:** [GitHub ⭐ 8](https://github.com/liuxiaojieOutOfWorld/MobileRAG_arxiv)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/liuxiaojieOutOfWorld/MobileRAG_arxiv)](https://github.com/liuxiaojieOutOfWorld/MobileRAG_arxiv)
 **Survey topics:** [Procedural Experience](memory-forms.md#procedural-experience)
 
 
@@ -2032,7 +2032,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Piaohong Wang and Motong Tian and Jiaxian Li and Yuan Liang and Yuqing Wang and Qianben Chen and Tiannan Wang and Zhicong Lu and Jiawei Ma and Yuchen Eleanor Jiang and Wangchunshu Zhou  
 **BibTeX key:** `wang2025omemomnimemorypersonalized`  
 **Link:** [Paper](https://arxiv.org/abs/2511.13593)  
-**GitHub:** [GitHub ⭐ 79](https://github.com/OPPO-PersonalAI/O-Mem)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/OPPO-PersonalAI/O-Mem)](https://github.com/OPPO-PersonalAI/O-Mem)
 **Survey topics:** [User Profiles](memory-forms.md#user-profiles)
 
 
@@ -2044,7 +2044,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wang, X. and Cui, Z. and Li, H. and Zeng, Y. and Wang, C. and Song, R. and Chen, Y. and Shao, K. and Zhang, Q. and Liu, J. and Ren, S. and Hu, S. and Wang, Z.  
 **BibTeX key:** `wang2025perpilot`  
 **Link:** [Paper](https://arxiv.org/abs/2508.18040)  
-**GitHub:** [GitHub ⭐ 7](https://github.com/xinwang-nwpu/PerPilot)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/xinwang-nwpu/PerPilot)](https://github.com/xinwang-nwpu/PerPilot)
 **Survey topics:** [User Preferences](personalization.md#user-preferences)
 
 
@@ -2056,7 +2056,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Ziliotto, F. and Akkara, J. R. and Daniele, A. and Ballan, L. and Serafini, L. and Campari, T.  
 **BibTeX key:** `ziliotto2025personal`  
 **Link:** [Paper](https://arxiv.org/abs/2509.19843)  
-**GitHub:** [GitHub ⭐ 8](https://github.com/ZiliottoFilippoDev/PersONAL)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/ZiliottoFilippoDev/PersONAL)](https://github.com/ZiliottoFilippoDev/PersONAL)
 **Survey topics:** [Personal Reference Resolution](personalization.md#personal-reference-resolution)
 
 
@@ -2068,7 +2068,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Yunxiao Shi and Wujiang Xu and Zeqi Zhang and Xing Zi and Qiang Wu and Min Xu  
 **BibTeX key:** `shi2025personaxrecommendationagentoriented`  
 **Link:** [Paper](https://arxiv.org/abs/2503.02398)  
-**GitHub:** [GitHub ⭐ 5](https://github.com/Ancientshi/PersonaX)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Ancientshi/PersonaX)](https://github.com/Ancientshi/PersonaX)
 **Survey topics:** [User Profiles](memory-forms.md#user-profiles)
 
 
@@ -2102,7 +2102,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Tiwari, R. and Xi, H. and Tomar, A. and Hooper, C. and Kim, S. and Horton, M. and Najibi, M. and Mahoney, M. W. and Keutzer, K. and Gholami, A.  
 **BibTeX key:** `tiwari2025quantspec`  
 **Link:** [Paper](https://arxiv.org/abs/2502.10424)  
-**GitHub:** [GitHub ⭐ 14](https://github.com/SqueezeAILab/QuantSpec)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/SqueezeAILab/QuantSpec)](https://github.com/SqueezeAILab/QuantSpec)
 **Survey topics:** [Cache Compression](memory-forms.md#cache-compression)
 
 
@@ -2114,7 +2114,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wu, Z. and Huang, H. and Yang, Y. and Song, Y. and Lou, X. and Liu, W. and Zhang, W. and Wang, J. and Zhang, Z.  
 **BibTeX key:** `wu2025quick`  
 **Link:** [Paper](https://arxiv.org/abs/2508.08645)  
-**GitHub:** [GitHub ⭐ 10](https://github.com/MadeAgents/Quick-on-the-Uptake)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/MadeAgents/Quick-on-the-Uptake)](https://github.com/MadeAgents/Quick-on-the-Uptake)
 **Resources:** [Data](https://huggingface.co/datasets/wuuuuuz/MobileIAR) · [Repository](https://github.com/MadeAgents/Quick-on-the-Uptake)
 **Survey topics:** [User Profiles](memory-forms.md#user-profiles) · [Benchmarks](evaluation.md#benchmarks) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
@@ -2127,7 +2127,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Long, L. and He, Y. and Ye, W. and Pan, Y. and Lin, Y. and Li, H. and Zhao, J. and Li, W.  
 **BibTeX key:** `long2025seeing`  
 **Link:** [Paper](https://arxiv.org/abs/2508.09736)  
-**GitHub:** [GitHub ⭐ 1,455](https://github.com/bytedance-seed/m3-agent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/bytedance-seed/m3-agent)](https://github.com/bytedance-seed/m3-agent)
 **Resources:** [Repository](https://github.com/bytedance-seed/m3-agent)
 **Survey topics:** [Benchmarks](evaluation.md#benchmarks) · [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
@@ -2140,7 +2140,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Xi, Zhiheng and Chen, Wenxiang and Guo, Xin and He, Wei and Ding, Yiwen and Hong, Boyang and Zhang, Ming and Wang, Junzhe and Jin, Senjie and Zhou, Enyu and Zheng, Rui and Fan, Xiaoran and Wang, Xiao and Xiong, Limao and Zhou, Yuhao and Wang, Weiran and Jiang, Changhao and Zou, Yicheng and Liu, Xiangyang and Yin, Zhangyue and Dou, Shihan and Weng, Rongxiang and Qin, Wenjuan and Zheng, Yongyan and Qiu, Xipeng and Huang, Xuanjing and Zhang, Qi and Gui, Tao  
 **BibTeX key:** `xi2025agentsurvey`  
 **Link:** [Paper](https://doi.org/10.1007/s11432-024-4222-0)  
-**GitHub:** [GitHub ⭐ 8,222](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/WooooDyy/LLM-Agent-Paper-List)](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 
 
 <a name="paper-zhang2025memory"></a>
@@ -2162,7 +2162,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Cakmak, M. C. and Agarwal, N. and Poudel, D.  
 **BibTeX key:** `cakmak2025tripss`  
 **Link:** [Paper](https://arxiv.org/abs/2506.05395)  
-**GitHub:** [GitHub ⭐ 3](https://github.com/Mccakmak/tri-modal-keyframe-extraction)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Mccakmak/tri-modal-keyframe-extraction)](https://github.com/Mccakmak/tri-modal-keyframe-extraction)
 **Survey topics:** [Memory Unit](lifecycle.md#memory-unit)
 
 
@@ -2185,7 +2185,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Rasmussen, P. and Paliychuk, P. and Beauvais, T. and Ryan, J. and Chalef, D.  
 **BibTeX key:** `rasmussen2025zep`  
 **Link:** [Paper](https://arxiv.org/abs/2501.13956)  
-**GitHub:** [GitHub ⭐ 31,515](https://github.com/getzep/graphiti)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/getzep/graphiti)](https://github.com/getzep/graphiti)
 **Survey topics:** [Memory Updating](lifecycle.md#memory-updating)
 
 
@@ -2200,7 +2200,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Gong, J. and Ding, J. and Meng, F. and Chen, G. and Chen, H. and Zhao, S. and Lu, H. and Li, Y.  
 **BibTeX key:** `gong2024population`  
 **Link:** [Paper](https://doi.org/10.1145/3637528.3671984)  
-**GitHub:** [GitHub ⭐ 6](https://github.com/tsinghua-fib-lab/LLM-for-User-Intent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/tsinghua-fib-lab/LLM-for-User-Intent)](https://github.com/tsinghua-fib-lab/LLM-for-User-Intent)
 **Survey topics:** [Personalized Parametric Memory](memory-forms.md#personalized-parametric-memory) · [Proactive Assistance](personalization.md#proactive-assistance)
 
 
@@ -2212,7 +2212,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wang, Lei and Ma, Chen and Feng, Xueyang and Zhang, Zeyu and Yang, Hao and Zhang, Jingsen and Chen, Zhiyuan and Tang, Jiakai and Chen, Xu and Lin, Yankai and Zhao, Wayne Xin and Wei, Zhewei and Wen, Jirong  
 **BibTeX key:** `wang2024autonomoussurvey`  
 **Link:** [Paper](https://doi.org/10.1007/s11704-024-40231-1)  
-**GitHub:** [GitHub ⭐ 2,913](https://github.com/Paitesanshi/LLM-Agent-Survey)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/Paitesanshi/LLM-Agent-Survey)](https://github.com/Paitesanshi/LLM-Agent-Survey)
 
 
 <a name="paper-bagdasarian2024airgapagent"></a>
@@ -2245,7 +2245,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Sumers, Theodore R. and Yao, Shunyu and Narasimhan, Karthik and Griffiths, Thomas L.  
 **BibTeX key:** `sumers2024cognitive`  
 **Link:** [Paper](https://arxiv.org/abs/2309.02427)  
-**GitHub:** [GitHub ⭐ 1,258](https://github.com/ysymyth/awesome-language-agents)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/awesome-language-agents)](https://github.com/ysymyth/awesome-language-agents)
 **Survey topics:** [Agent Memory](foundations.md#agent-memory) · [Memory Lifecycle Definition](foundations.md#memory-lifecycle-definition)
 
 
@@ -2279,7 +2279,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Xia, X. and Wang, Z. and Sun, R. and Liu, B. and Khalil, I. and Xue, M.  
 **BibTeX key:** `xia2024edge`  
 **Link:** [Paper](https://arxiv.org/abs/2410.10128)  
-**GitHub:** [GitHub ⭐ 2](https://github.com/XLab-hub/CAUSE)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/XLab-hub/CAUSE)](https://github.com/XLab-hub/CAUSE)
 **Survey topics:** [Machine Unlearning](lifecycle.md#machine-unlearning)
 
 
@@ -2291,7 +2291,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Maharana, A. and Lee, D.-H. and Tulyakov, S. and Bansal, M. and Barbieri, F. and Fang, Y.  
 **BibTeX key:** `maharana2024evaluating`  
 **Link:** [Paper](https://doi.org/10.18653/v1/2024.acl-long.747)  
-**GitHub:** [GitHub ⭐ 1,208](https://github.com/snap-research/locomo)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/snap-research/locomo)](https://github.com/snap-research/locomo)
 **Resources:** [Repository](https://github.com/snap-research/locomo)
 **Survey topics:** [Memory Accuracy](evaluation.md#memory-accuracy) · [Benchmarks](evaluation.md#benchmarks) · [General Agent-Memory Benchmarks](evaluation.md#general-agent-memory-benchmarks)
 
@@ -2304,7 +2304,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Zhao, Andrew and Huang, Daniel and Xu, Quentin and Lin, Matthieu and Liu, Yong-Jin and Huang, Gao  
 **BibTeX key:** `zhao2024expel`  
 **Link:** [Paper](https://doi.org/10.1609/aaai.v38i17.29936)  
-**GitHub:** [GitHub ⭐ 245](https://github.com/LeapLabTHU/ExpeL)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/LeapLabTHU/ExpeL)](https://github.com/LeapLabTHU/ExpeL)
 **Survey topics:** [Memory Lifecycle Definition](foundations.md#memory-lifecycle-definition)
 
 
@@ -2316,7 +2316,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Salemi, Alireza and Mysore, Sheshera and Bendersky, Michael and Zamani, Hamed  
 **BibTeX key:** `salemi2024lamp`  
 **Link:** [Paper](https://doi.org/10.18653/v1/2024.acl-long.399)  
-**GitHub:** [GitHub ⭐ 209](https://github.com/LaMP-Benchmark/LaMP)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/LaMP-Benchmark/LaMP)](https://github.com/LaMP-Benchmark/LaMP)
 
 
 <a name="paper-alizadeh2024llmflash"></a>
@@ -2347,7 +2347,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Zhong, Wanjun and Guo, Lianghong and Gao, Qiqi and Ye, He and Wang, Yanlin  
 **BibTeX key:** `zhong2024memorybank`  
 **Link:** [Paper](https://doi.org/10.1609/aaai.v38i17.29946)  
-**GitHub:** [GitHub ⭐ 455](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/zhongwanjun/MemoryBank-SiliconFriend)](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
 **Survey topics:** [Agent Memory](foundations.md#agent-memory)
 
 
@@ -2359,7 +2359,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wang, J. and Xu, H. and Jia, H. and Zhang, X. and Yan, M. and Shen, W. and Zhang, J. and Huang, F. and Sang, J.  
 **BibTeX key:** `wang2024mobile`  
 **Link:** [Paper](https://arxiv.org/abs/2406.01014)  
-**GitHub:** [GitHub ⭐ 9,277](https://github.com/X-PLUG/MobileAgent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/X-PLUG/MobileAgent)](https://github.com/X-PLUG/MobileAgent)
 **Survey topics:** [Task-State Records](memory-forms.md#task-state-records)
 
 
@@ -2382,7 +2382,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Wang, G. and Xie, Y. and Jiang, Y. and Mandlekar, A. and Xiao, C. and Zhu, Y. and Fan, L. and Anandkumar, A.  
 **BibTeX key:** `wang2023voyager`  
 **Link:** [Paper](https://openreview.net/forum?id=ehfRiF0R3a)  
-**GitHub:** [GitHub ⭐ 7,250](https://github.com/MineDojo/Voyager)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager)](https://github.com/MineDojo/Voyager)
 **Survey topics:** [Agent Memory](foundations.md#agent-memory) · [Simulated Environments](deployment.md#simulated-environments)
 
 
@@ -2397,7 +2397,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Zhang, C. and Yang, Z. and Liu, J. and Li, Y. and Han, Y. and Chen, X. and Huang, Z. and Fu, B. and Yu, G.  
 **BibTeX key:** `zhang2023appagent`  
 **Link:** [Paper](https://arxiv.org/abs/2312.13771)  
-**GitHub:** [GitHub ⭐ 6,899](https://github.com/TencentQQGYLab/AppAgent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/TencentQQGYLab/AppAgent)](https://github.com/TencentQQGYLab/AppAgent)
 **Survey topics:** [Procedural Experience](memory-forms.md#procedural-experience)
 
 
@@ -2409,7 +2409,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Park, Joon Sung and O'Brien, Joseph and Cai, Carrie Jun and Morris, Meredith Ringel and Liang, Percy and Bernstein, Michael S.  
 **BibTeX key:** `park2023generativeagents`  
 **Link:** [Paper](https://arxiv.org/abs/2304.03442)  
-**GitHub:** [GitHub ⭐ 22,190](https://github.com/joonspk-research/generative_agents)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/joonspk-research/generative_agents)](https://github.com/joonspk-research/generative_agents)
 **Survey topics:** [Agent Memory](foundations.md#agent-memory) · [Memory Lifecycle Definition](foundations.md#memory-lifecycle-definition)
 
 
@@ -2421,7 +2421,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Yao, Shunyu and Zhao, Jeffrey and Yu, Dian and Du, Nan and Shafran, Izhak and Narasimhan, Karthik and Cao, Yuan  
 **BibTeX key:** `yao2023react`  
 **Link:** [Paper](https://openreview.net/forum?id=WE_vluYUL-X)  
-**GitHub:** [GitHub ⭐ 4,203](https://github.com/ysymyth/ReAct)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/ysymyth/ReAct)](https://github.com/ysymyth/ReAct)
 
 
 <a name="paper-shinn2023reflexion"></a>
@@ -2432,7 +2432,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Shinn, Noah and Cassano, Federico and Gopinath, Ashwin and Narasimhan, Karthik and Yao, Shunyu  
 **BibTeX key:** `shinn2023reflexion`  
 **Link:** [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1b44b878bb782e6954cd888628510e90-Abstract-Conference.html)  
-**GitHub:** [GitHub ⭐ 3,295](https://github.com/noahshinn/reflexion)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/noahshinn/reflexion)](https://github.com/noahshinn/reflexion)
 **Survey topics:** [Memory Lifecycle Definition](foundations.md#memory-lifecycle-definition)
 
 
@@ -2447,7 +2447,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Grauman, K. and Westbury, A. and Byrne, E. and Chavis, Z. and Furnari, A. and Girdhar, R. and Hamburger, J. and Jiang, H. and Liu, M. and Liu, X. and Martin, M. and Nagarajan, T. and Radosavovic, I. and Ramakrishnan, S. K. and Ryan, F. and Sharma, J. and Wray, M. and Xu, M. and Xu, E. Z. and others  
 **BibTeX key:** `grauman2022ego4d`  
 **Link:** [Paper](https://arxiv.org/abs/2110.07058)  
-**GitHub:** [GitHub ⭐ 652](https://github.com/facebookresearch/Ego4d)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/Ego4d)](https://github.com/facebookresearch/Ego4d)
 **Survey topics:** [Device-Context Benchmarks](evaluation.md#device-context-benchmarks)
 
 
@@ -2459,7 +2459,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Hu, E. J. and Shen, Y. and Wallis, P. and Allen-Zhu, Z. and Li, Y. and Wang, S. and Wang, L. and Chen, W.  
 **BibTeX key:** `hu2022lora`  
 **Link:** [Paper](https://openreview.net/forum?id=nZeVKeeFYf9)  
-**GitHub:** [GitHub ⭐ 13,833](https://github.com/microsoft/LoRA)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LoRA)](https://github.com/microsoft/LoRA)
 **Survey topics:** [Personalized Parametric Memory](memory-forms.md#personalized-parametric-memory)
 
 
@@ -2471,7 +2471,7 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Authors:** Mollyn, V. and Ahuja, K. and Verma, D. and Harrison, C. and Goel, M.  
 **BibTeX key:** `mollyn2022samosa`  
 **Link:** [Paper](https://doi.org/10.1145/3550284)  
-**GitHub:** [GitHub ⭐ 21](https://github.com/cmusmashlab/SAMoSA)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/cmusmashlab/SAMoSA)](https://github.com/cmusmashlab/SAMoSA)
 **Survey topics:** [Write Admission](lifecycle.md#write-admission) · [Smartwatches](deployment.md#smartwatches)
 
 
@@ -2568,7 +2568,7 @@ These records are present in the supplied bibliography but have no explicit cita
 **Authors:** Mishan Aliev and Eva Neudachina and Ilya Bykov and Aleksandr Oganov and Kirill Struminsky and Aibek Alanov and Denis Rakitin  
 **BibTeX key:** `aliev2026recachelearningbudgetawarecaching`  
 **Link:** [Paper](https://arxiv.org/abs/2606.06060)  
-**GitHub:** [GitHub ⭐ 30](https://github.com/thecrazymage/ReCache)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/thecrazymage/ReCache)](https://github.com/thecrazymage/ReCache)
 
 
 <a name="paper-hu2024hiagenthierarchicalworkingmemory"></a>
@@ -2579,4 +2579,4 @@ These records are present in the supplied bibliography but have no explicit cita
 **Authors:** Mengkang Hu and Tianxing Chen and Qiguang Chen and Yao Mu and Wenqi Shao and Ping Luo  
 **BibTeX key:** `hu2024hiagenthierarchicalworkingmemory`  
 **Link:** [Paper](https://arxiv.org/abs/2408.09559)  
-**GitHub:** [GitHub ⭐ 74](https://github.com/HiAgent2024/HiAgent)
+**GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/HiAgent2024/HiAgent)](https://github.com/HiAgent2024/HiAgent)

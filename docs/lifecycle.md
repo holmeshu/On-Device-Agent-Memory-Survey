@@ -2,7 +2,7 @@
 
 [Back to the resource page](../README.md) · [All papers](all-papers.md) · [BibTeX](../references.bib)
 
-⭐ GitHub stars checked on **2026-10-07**. Links point to verified author repositories or accompanying resources.
+⭐ GitHub star badges update automatically. Links point to author repositories or accompanying resources verified on **2026-10-07**.
 
 Formation, retrieval, evolution, and forgetting jointly maintain useful memory over continued interaction. The lists below preserve the manuscript's placement of each reference.
 
@@ -23,30 +23,30 @@ Decide what enters memory, its granularity, and how provenance is retained.
 
 ### Write Admission
 
-- (2022) **SAMoSA: Sensing activities with motion and subsampled audio**. [Paper](https://doi.org/10.1145/3550284) · [GitHub ⭐ 21](https://github.com/cmusmashlab/SAMoSA)
-- (2025) **EgoTrigger: Toward Audio-Driven Image Capture for Human Memory Enhancement in All-Day Energy-Efficient Smart Glasses**. [Paper](https://arxiv.org/abs/2508.01915) · [GitHub ⭐ 5](https://github.com/yahskapar/EgoTrigger)
-- (2026) **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**. [Paper](https://arxiv.org/abs/2604.19541) · [GitHub ⭐ 0](https://github.com/Haoran2099/focal)
+- (2022) **SAMoSA: Sensing activities with motion and subsampled audio**. [Paper](https://doi.org/10.1145/3550284) · [![GitHub Repo stars](https://img.shields.io/github/stars/cmusmashlab/SAMoSA)](https://github.com/cmusmashlab/SAMoSA)
+- (2025) **EgoTrigger: Toward Audio-Driven Image Capture for Human Memory Enhancement in All-Day Energy-Efficient Smart Glasses**. [Paper](https://arxiv.org/abs/2508.01915) · [![GitHub Repo stars](https://img.shields.io/github/stars/yahskapar/EgoTrigger)](https://github.com/yahskapar/EgoTrigger)
+- (2026) **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**. [Paper](https://arxiv.org/abs/2604.19541) · [![GitHub Repo stars](https://img.shields.io/github/stars/Haoran2099/focal)](https://github.com/Haoran2099/focal)
 - (2026) **STAMP: Training Explicit Memory for Mobile GUI Agents in Controllable and Scalable Virtual Environments**. [Paper](https://arxiv.org/abs/2605.29324)
 - (2026) **EMBER: Efficient Memory via Budgeted Evidence Retention for Long-Horizon Agents**. [Paper](https://arxiv.org/abs/2606.05894)
-- (2025) **CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding**. [Paper](https://arxiv.org/abs/2501.09645) · [GitHub ⭐ 9](https://github.com/johanneskirmayr/CarMem)
-- (2026) **Towards Persistent Case-Based Memory for Autonomous Data Science: A CBR-Augmented R&D-Agent with a Locally Deployable Small Language Model**. [Paper](https://arxiv.org/abs/2606.05250) · [GitHub ⭐ 0](https://github.com/stofe94/cbr-rd-agent)
-- (2026) **Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.583) · [GitHub ⭐ 127](https://github.com/yansikuan/memory-r1)
-- (2026) **Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.981) · [GitHub ⭐ 50](https://github.com/y1y5/AgeMem)
+- (2025) **CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding**. [Paper](https://arxiv.org/abs/2501.09645) · [![GitHub Repo stars](https://img.shields.io/github/stars/johanneskirmayr/CarMem)](https://github.com/johanneskirmayr/CarMem)
+- (2026) **Towards Persistent Case-Based Memory for Autonomous Data Science: A CBR-Augmented R&D-Agent with a Locally Deployable Small Language Model**. [Paper](https://arxiv.org/abs/2606.05250) · [![GitHub Repo stars](https://img.shields.io/github/stars/stofe94/cbr-rd-agent)](https://github.com/stofe94/cbr-rd-agent)
+- (2026) **Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.583) · [![GitHub Repo stars](https://img.shields.io/github/stars/yansikuan/memory-r1)](https://github.com/yansikuan/memory-r1)
+- (2026) **Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.981) · [![GitHub Repo stars](https://img.shields.io/github/stars/y1y5/AgeMem)](https://github.com/y1y5/AgeMem)
 
 ### Memory Unit
 
 - (2026) **Venus: An Efficient Edge Memory-and-Retrieval System for VLM-based Online Video Understanding**. [Paper](https://arxiv.org/abs/2512.07344)
-- (2026) **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**. [Paper](https://arxiv.org/abs/2604.19541) · [GitHub ⭐ 0](https://github.com/Haoran2099/focal)
-- (2025) **TriPSS: A Tri-Modal Keyframe Extraction Framework Using Perceptual, Structural, and Semantic Representations**. [Paper](https://arxiv.org/abs/2506.05395) · [GitHub ⭐ 3](https://github.com/Mccakmak/tri-modal-keyframe-extraction)
+- (2026) **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**. [Paper](https://arxiv.org/abs/2604.19541) · [![GitHub Repo stars](https://img.shields.io/github/stars/Haoran2099/focal)](https://github.com/Haoran2099/focal)
+- (2025) **TriPSS: A Tri-Modal Keyframe Extraction Framework Using Perceptual, Structural, and Semantic Representations**. [Paper](https://arxiv.org/abs/2506.05395) · [![GitHub Repo stars](https://img.shields.io/github/stars/Mccakmak/tri-modal-keyframe-extraction)](https://github.com/Mccakmak/tri-modal-keyframe-extraction)
 - (2026) **EMBER: Efficient Memory via Budgeted Evidence Retention for Long-Horizon Agents**. [Paper](https://arxiv.org/abs/2606.05894)
 - (2026) **UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents**. [Paper](https://arxiv.org/abs/2602.05832)
-- (2026) **MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution**. [Paper](https://arxiv.org/abs/2601.19199) · [GitHub ⭐ 3](https://github.com/sunlibo2390/MAGNET)
+- (2026) **MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution**. [Paper](https://arxiv.org/abs/2601.19199) · [![GitHub Repo stars](https://img.shields.io/github/stars/sunlibo2390/MAGNET)](https://github.com/sunlibo2390/MAGNET)
 - (2026) **Efficient and Effective Personalized In-Context Learning for On-Device Large Model Services**. [Paper](https://doi.org/10.1109/TSC.2026.3697569)
 
 ### Provenance
 
 - (2024) **Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs**. [Paper](https://doi.org/10.18653/v1/2024.emnlp-main.281)
-- (2026) **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**. [Paper](https://arxiv.org/abs/2604.19541) · [GitHub ⭐ 0](https://github.com/Haoran2099/focal)
+- (2026) **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**. [Paper](https://arxiv.org/abs/2604.19541) · [![GitHub Repo stars](https://img.shields.io/github/stars/Haoran2099/focal)](https://github.com/Haoran2099/focal)
 - (2026) **APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.749)
 - (2026) **SelfMem: Self-Optimizing Memory for AI Agents**. [Paper](https://arxiv.org/abs/2607.03726)
 
@@ -59,30 +59,30 @@ Choose when to retrieve, which memory to access, and how much evidence to pass t
 
 - (2026) **MemFlow: Intent-Driven Memory Orchestration for Small Language Model Agents**. [Paper](https://arxiv.org/abs/2605.03312)
 - (2025) **MobileRAG: A Fast, Memory-Efficient, and Energy-Efficient Method for On-Device RAG**. [Paper](https://arxiv.org/abs/2507.01079)
-- (2026) **Agentic Very Long Video Understanding**. [Paper](https://arxiv.org/abs/2601.18157) · [GitHub ⭐ 63](https://github.com/facebookresearch/egagent)
+- (2026) **Agentic Very Long Video Understanding**. [Paper](https://arxiv.org/abs/2601.18157) · [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/egagent)](https://github.com/facebookresearch/egagent)
 - (2026) **UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents**. [Paper](https://arxiv.org/abs/2602.05832)
 - (2025) **Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM**. [Paper](https://arxiv.org/abs/2512.15784)
-- (2025) **EfficientNav: Towards on-device object-goal navigation with navigation map caching and retrieval**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/067437c6d5d0369b6d09200bef89715b-Abstract-Conference.html) · [GitHub ⭐ 17](https://github.com/PKU-SEC-Lab/EfficientNav)
+- (2025) **EfficientNav: Towards on-device object-goal navigation with navigation map caching and retrieval**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/067437c6d5d0369b6d09200bef89715b-Abstract-Conference.html) · [![GitHub Repo stars](https://img.shields.io/github/stars/PKU-SEC-Lab/EfficientNav)](https://github.com/PKU-SEC-Lab/EfficientNav)
 
 ### Memory Routing
 
 - (2026) **MemFlow: Intent-Driven Memory Orchestration for Small Language Model Agents**. [Paper](https://arxiv.org/abs/2605.03312)
 - (2025) **Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM**. [Paper](https://arxiv.org/abs/2512.15784)
-- (2026) **Agentic Very Long Video Understanding**. [Paper](https://arxiv.org/abs/2601.18157) · [GitHub ⭐ 63](https://github.com/facebookresearch/egagent)
-- (2026) **REMem: Reasoning with Episodic Memory in Language Agent**. [Paper](https://arxiv.org/abs/2602.13530) · [GitHub ⭐ 30](https://github.com/intuit-ai-research/REMem)
+- (2026) **Agentic Very Long Video Understanding**. [Paper](https://arxiv.org/abs/2601.18157) · [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/egagent)](https://github.com/facebookresearch/egagent)
+- (2026) **REMem: Reasoning with Episodic Memory in Language Agent**. [Paper](https://arxiv.org/abs/2602.13530) · [![GitHub Repo stars](https://img.shields.io/github/stars/intuit-ai-research/REMem)](https://github.com/intuit-ai-research/REMem)
 - (2025) **MobileRAG: A Fast, Memory-Efficient, and Energy-Efficient Method for On-Device RAG**. [Paper](https://arxiv.org/abs/2507.01079)
-- (2025) **EfficientNav: Towards on-device object-goal navigation with navigation map caching and retrieval**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/067437c6d5d0369b6d09200bef89715b-Abstract-Conference.html) · [GitHub ⭐ 17](https://github.com/PKU-SEC-Lab/EfficientNav)
+- (2025) **EfficientNav: Towards on-device object-goal navigation with navigation map caching and retrieval**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/067437c6d5d0369b6d09200bef89715b-Abstract-Conference.html) · [![GitHub Repo stars](https://img.shields.io/github/stars/PKU-SEC-Lab/EfficientNav)](https://github.com/PKU-SEC-Lab/EfficientNav)
 
 ### Post-Retrieval Evidence Reduction
 
 - (2025) **MobileRAG: A Fast, Memory-Efficient, and Energy-Efficient Method for On-Device RAG**. [Paper](https://arxiv.org/abs/2507.01079)
 - (2026) **MemFlow: Intent-Driven Memory Orchestration for Small Language Model Agents**. [Paper](https://arxiv.org/abs/2605.03312)
 - (2026) **Lightweight LLM Agent Memory with Small Language Models**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.588)
-- (2026) **MemX: A Local-First Long-Term Memory System for AI Assistants**. [Paper](https://arxiv.org/abs/2603.16171) · [GitHub ⭐ 5](https://github.com/memxlab/memx)
+- (2026) **MemX: A Local-First Long-Term Memory System for AI Assistants**. [Paper](https://arxiv.org/abs/2603.16171) · [![GitHub Repo stars](https://img.shields.io/github/stars/memxlab/memx)](https://github.com/memxlab/memx)
 - (2026) **Clustering-driven Memory Compression for On-device Large Language Models**. [Paper](https://arxiv.org/abs/2601.17443)
-- (2025) **MemGuide: Intent-Driven Memory Selection for Goal-Oriented Multi-Session LLM Agents**. [Paper](https://arxiv.org/abs/2505.20231) · [GitHub ⭐ 9](https://github.com/Elvin-Yiming-Du/MS_TOD_Memory)
-- (2026) **Agentic Very Long Video Understanding**. [Paper](https://arxiv.org/abs/2601.18157) · [GitHub ⭐ 63](https://github.com/facebookresearch/egagent)
-- (2025) **HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model**. [Paper](https://doi.org/10.18653/v1/2025.acl-long.1575) · [GitHub ⭐ 74](https://github.com/HiAgent2024/HiAgent)
+- (2025) **MemGuide: Intent-Driven Memory Selection for Goal-Oriented Multi-Session LLM Agents**. [Paper](https://arxiv.org/abs/2505.20231) · [![GitHub Repo stars](https://img.shields.io/github/stars/Elvin-Yiming-Du/MS_TOD_Memory)](https://github.com/Elvin-Yiming-Du/MS_TOD_Memory)
+- (2026) **Agentic Very Long Video Understanding**. [Paper](https://arxiv.org/abs/2601.18157) · [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/egagent)](https://github.com/facebookresearch/egagent)
+- (2025) **HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model**. [Paper](https://doi.org/10.18653/v1/2025.acl-long.1575) · [![GitHub Repo stars](https://img.shields.io/github/stars/HiAgent2024/HiAgent)](https://github.com/HiAgent2024/HiAgent)
 
 ## Memory Evolution
 
@@ -92,21 +92,21 @@ Consolidate experience and revise retained state as evidence or environments cha
 ### Memory Consolidation
 
 - (2026) **UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents**. [Paper](https://arxiv.org/abs/2602.05832)
-- (2026) **MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution**. [Paper](https://arxiv.org/abs/2601.19199) · [GitHub ⭐ 3](https://github.com/sunlibo2390/MAGNET)
+- (2026) **MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution**. [Paper](https://arxiv.org/abs/2601.19199) · [![GitHub Repo stars](https://img.shields.io/github/stars/sunlibo2390/MAGNET)](https://github.com/sunlibo2390/MAGNET)
 - (2025) **Mnemosyne: An unsupervised, human-inspired long-term memory architecture for edge-based LLMs**. [Paper](https://arxiv.org/abs/2510.08601)
 - (2025) **In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents**. [Paper](https://doi.org/10.18653/v1/2025.acl-long.413)
-- (2025) **A-Mem: Agentic memory for LLM agents**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/19909c36f51abc4856b4560aff3d36d6-Abstract-Conference.html) · [GitHub ⭐ 1,192](https://github.com/agiresearch/A-mem)
+- (2025) **A-Mem: Agentic memory for LLM agents**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/19909c36f51abc4856b4560aff3d36d6-Abstract-Conference.html) · [![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/A-mem)](https://github.com/agiresearch/A-mem)
 
 ### Memory Updating
 
-- (2025) **Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory**. [Paper](https://arxiv.org/abs/2504.19413) · [GitHub ⭐ 66,763](https://github.com/mem0ai/mem0)
-- (2025) **Zep: A Temporal Knowledge Graph Architecture for Agent Memory**. [Paper](https://arxiv.org/abs/2501.13956) · [GitHub ⭐ 31,515](https://github.com/getzep/graphiti)
+- (2025) **Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory**. [Paper](https://arxiv.org/abs/2504.19413) · [![GitHub Repo stars](https://img.shields.io/github/stars/mem0ai/mem0)](https://github.com/mem0ai/mem0)
+- (2025) **Zep: A Temporal Knowledge Graph Architecture for Agent Memory**. [Paper](https://arxiv.org/abs/2501.13956) · [![GitHub Repo stars](https://img.shields.io/github/stars/getzep/graphiti)](https://github.com/getzep/graphiti)
 - (2025) **Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM**. [Paper](https://arxiv.org/abs/2512.15784)
 - (2026) **ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory**. [Paper](https://arxiv.org/abs/2602.20502)
-- (2026) **Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.583) · [GitHub ⭐ 127](https://github.com/yansikuan/memory-r1)
-- (2026) **Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.981) · [GitHub ⭐ 50](https://github.com/y1y5/AgeMem)
-- (2026) **LightMem: Lightweight and Efficient Memory-Augmented Generation**. [Paper](https://arxiv.org/abs/2510.18866) · [GitHub ⭐ 1,185](https://github.com/zjunlp/LightMem)
-- (2026) **HUOZIIME: An On-Device LLM-enhanced Input Method for Deep Personalization**. [Paper](https://arxiv.org/abs/2604.14159) · [GitHub ⭐ 16](https://github.com/Shan-HIT/HuoziIME)
+- (2026) **Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.583) · [![GitHub Repo stars](https://img.shields.io/github/stars/yansikuan/memory-r1)](https://github.com/yansikuan/memory-r1)
+- (2026) **Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.981) · [![GitHub Repo stars](https://img.shields.io/github/stars/y1y5/AgeMem)](https://github.com/y1y5/AgeMem)
+- (2026) **LightMem: Lightweight and Efficient Memory-Augmented Generation**. [Paper](https://arxiv.org/abs/2510.18866) · [![GitHub Repo stars](https://img.shields.io/github/stars/zjunlp/LightMem)](https://github.com/zjunlp/LightMem)
+- (2026) **HUOZIIME: An On-Device LLM-enhanced Input Method for Deep Personalization**. [Paper](https://arxiv.org/abs/2604.14159) · [![GitHub Repo stars](https://img.shields.io/github/stars/Shan-HIT/HuoziIME)](https://github.com/Shan-HIT/HuoziIME)
 
 ## Memory Forgetting
 
@@ -117,8 +117,8 @@ Remove low-value or explicitly targeted information, including influence in deri
 
 - (2025) **Mnemosyne: An unsupervised, human-inspired long-term memory architecture for edge-based LLMs**. [Paper](https://arxiv.org/abs/2510.08601)
 - (2026) **ScrapMem: A Bio-inspired Framework for On-device Personalized Agent Memory via Optical Forgetting**. [Paper](https://arxiv.org/abs/2605.03804)
-- (2026) **SuperLocalMemory V3.3: The Living Brain - Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems**. [Paper](https://arxiv.org/abs/2604.04514) · [GitHub ⭐ 227](https://github.com/qualixar/superlocalmemory)
-- (2025) **Memory OS of AI Agent**. [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1318) · [GitHub ⭐ 1,593](https://github.com/BAI-LAB/MemoryOS)
+- (2026) **SuperLocalMemory V3.3: The Living Brain - Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems**. [Paper](https://arxiv.org/abs/2604.04514) · [![GitHub Repo stars](https://img.shields.io/github/stars/qualixar/superlocalmemory)](https://github.com/qualixar/superlocalmemory)
+- (2025) **Memory OS of AI Agent**. [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1318) · [![GitHub Repo stars](https://img.shields.io/github/stars/BAI-LAB/MemoryOS)](https://github.com/BAI-LAB/MemoryOS)
 - (2026) **Forget to Improve: On-Device LLM-Agent Continual Learning via Budget-Curated Memory**. [Paper](https://arxiv.org/abs/2606.25115)
 - (2026) **When to Forget: A Memory Governance Primitive**. [Paper](https://arxiv.org/abs/2604.12007)
 - (2026) **MemArchitect: A Policy Driven Memory Governance Layer**. [Paper](https://arxiv.org/abs/2603.18330)
@@ -130,9 +130,9 @@ Remove low-value or explicitly targeted information, including influence in deri
 
 ### Machine Unlearning
 
-- (2024) **Edge Unlearning is Not "on Edge"! An Adaptive Exact Unlearning System on Resource-Constrained Devices**. [Paper](https://arxiv.org/abs/2410.10128) · [GitHub ⭐ 2](https://github.com/XLab-hub/CAUSE)
+- (2024) **Edge Unlearning is Not "on Edge"! An Adaptive Exact Unlearning System on Resource-Constrained Devices**. [Paper](https://arxiv.org/abs/2410.10128) · [![GitHub Repo stars](https://img.shields.io/github/stars/XLab-hub/CAUSE)](https://github.com/XLab-hub/CAUSE)
 - (2025) **Towards Memory-Efficient and Sustainable Machine Unlearning on Edge using Zeroth-Order Optimizer**. [Paper](https://doi.org/10.1145/3716368.3735273)
 - (2026) **Forget by Uncertainty: Orthogonal Entropy Unlearning for Quantized Neural Networks**. [Paper](https://arxiv.org/abs/2602.00567)
 - (2026) **From Anchors to Supervision: Memory-Graph Guided Corpus-Free Unlearning for Large Language Models**. [Paper](https://arxiv.org/abs/2604.13777)
 - (2026) **RePAIR: Interactive Machine Unlearning through Prompt-Aware Model Repair**. [Paper](https://arxiv.org/abs/2604.12820)
-- (2026) **ZK-APEX: Zero-Knowledge Approximate Personalized Unlearning with Executable Proofs**. [Paper](https://arxiv.org/abs/2512.09953) · [GitHub ⭐ 1](https://github.com/mammadmaheri7/ZK-APEX)
+- (2026) **ZK-APEX: Zero-Knowledge Approximate Personalized Unlearning with Executable Proofs**. [Paper](https://arxiv.org/abs/2512.09953) · [![GitHub Repo stars](https://img.shields.io/github/stars/mammadmaheri7/ZK-APEX)](https://github.com/mammadmaheri7/ZK-APEX)

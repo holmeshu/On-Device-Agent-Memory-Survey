@@ -2,7 +2,7 @@
 
 [Back to the resource page](../README.md) · [All papers](all-papers.md) · [BibTeX](../references.bib)
 
-⭐ GitHub stars checked on **2026-10-07**. Links point to verified author repositories or accompanying resources.
+⭐ GitHub star badges update automatically. Links point to author repositories or accompanying resources verified on **2026-10-07**.
 
 A device used for sensing or task interaction is not necessarily where memory processing runs. Deployment labels below reproduce the survey's assessment of runtime execution, separately from training and physical-world evaluation.
 
@@ -26,15 +26,15 @@ Smartphones, laptops, and desktops: transient interface state, procedural experi
 - (2026) **A Task-State Representation for Long-Horizon Mobile GUI Agents**. [Paper](https://arxiv.org/abs/2607.00502)
 - (2026) **UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents**. [Paper](https://arxiv.org/abs/2602.05832)
 - (2025) **Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM**. [Paper](https://arxiv.org/abs/2512.15784)
-- (2026) **PalmClaw: A Native On-Device Agent Framework for Mobile Phones**. [Paper](https://arxiv.org/abs/2607.13027) · [GitHub ⭐ 1,166](https://github.com/ModalityDance/PalmClaw)
-- (2026) **MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution**. [Paper](https://arxiv.org/abs/2601.19199) · [GitHub ⭐ 3](https://github.com/sunlibo2390/MAGNET)
+- (2026) **PalmClaw: A Native On-Device Agent Framework for Mobile Phones**. [Paper](https://arxiv.org/abs/2607.13027) · [![GitHub Repo stars](https://img.shields.io/github/stars/ModalityDance/PalmClaw)](https://github.com/ModalityDance/PalmClaw)
+- (2026) **MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution**. [Paper](https://arxiv.org/abs/2601.19199) · [![GitHub Repo stars](https://img.shields.io/github/stars/sunlibo2390/MAGNET)](https://github.com/sunlibo2390/MAGNET)
 - (2026) **MUSE: A Heterogeneity-Aware Multimedia Search Engine for Mobile SoCs**. [Paper](https://arxiv.org/abs/2511.19192)
 - (2025) **MobileRAG: A Fast, Memory-Efficient, and Energy-Efficient Method for On-Device RAG**. [Paper](https://arxiv.org/abs/2507.01079)
 
 ### Laptops and Desktops
 
-- (2026) **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**. [Paper](https://arxiv.org/abs/2604.19541) · [GitHub ⭐ 0](https://github.com/Haoran2099/focal)
-- (2025) **LEANN: A Low-Storage Vector Index**. [Paper](https://arxiv.org/abs/2506.08276) · [GitHub ⭐ 13,014](https://github.com/StarTrail-org/LEANN)
+- (2026) **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**. [Paper](https://arxiv.org/abs/2604.19541) · [![GitHub Repo stars](https://img.shields.io/github/stars/Haoran2099/focal)](https://github.com/Haoran2099/focal)
+- (2025) **LEANN: A Low-Storage Vector Index**. [Paper](https://arxiv.org/abs/2506.08276) · [![GitHub Repo stars](https://img.shields.io/github/stars/StarTrail-org/LEANN)](https://github.com/StarTrail-org/LEANN)
 - (2026) **ActionEngine: From Reactive to Programmatic GUI Agents via State Machine Memory**. [Paper](https://arxiv.org/abs/2602.20502)
 - (2026) **PUBG Ally: A Conversational Embodied Agent as an AI Teammate**. [Paper](https://arxiv.org/abs/2609.29837)
 - (2025) **Fixed-Persona SLMs with Modular Memory: Scalable NPC Dialogue on Consumer Hardware**. [Paper](https://arxiv.org/abs/2511.10277)
@@ -46,9 +46,9 @@ Smart glasses and XR headsets: selective sensing, egocentric history, and situat
 
 ### Smart Glasses
 
-- (2025) **EgoTrigger: Toward Audio-Driven Image Capture for Human Memory Enhancement in All-Day Energy-Efficient Smart Glasses**. [Paper](https://arxiv.org/abs/2508.01915) · [GitHub ⭐ 5](https://github.com/yahskapar/EgoTrigger)
-- (2026) **Color When It Counts: Grayscale-Guided Online Triggering for Always-On Streaming Video Sensing**. [Paper](https://arxiv.org/abs/2603.22466) · [GitHub ⭐ 4](https://github.com/lvgd/ColorTrigger)
-- (2025) **EgoLife: Towards Egocentric Life Assistant**. [Paper](https://arxiv.org/abs/2503.03803) · [GitHub ⭐ 467](https://github.com/EvolvingLMMs-Lab/EgoLife)
+- (2025) **EgoTrigger: Toward Audio-Driven Image Capture for Human Memory Enhancement in All-Day Energy-Efficient Smart Glasses**. [Paper](https://arxiv.org/abs/2508.01915) · [![GitHub Repo stars](https://img.shields.io/github/stars/yahskapar/EgoTrigger)](https://github.com/yahskapar/EgoTrigger)
+- (2026) **Color When It Counts: Grayscale-Guided Online Triggering for Always-On Streaming Video Sensing**. [Paper](https://arxiv.org/abs/2603.22466) · [![GitHub Repo stars](https://img.shields.io/github/stars/lvgd/ColorTrigger)](https://github.com/lvgd/ColorTrigger)
+- (2025) **EgoLife: Towards Egocentric Life Assistant**. [Paper](https://arxiv.org/abs/2503.03803) · [![GitHub Repo stars](https://img.shields.io/github/stars/EvolvingLMMs-Lab/EgoLife)](https://github.com/EvolvingLMMs-Lab/EgoLife)
 - (2026) **EgoGraph: Temporal Knowledge Graph for Egocentric Video Understanding**. [Paper](https://arxiv.org/abs/2602.23709)
 - (2025) **ProMemAssist: Exploring Timely Proactive Assistance Through Working Memory Modeling in Multi-Modal Wearable Devices**. [Paper](https://doi.org/10.1145/3746059.3747770)
 - (2026) **Toward Personalized Proactive Agents on Smart Glasses: From Explicit Context Policies to Implicit User Differences**. [Paper](https://doi.org/10.1145/3772363.3798509)
@@ -66,13 +66,13 @@ Smartwatches and health devices: intermittent signals, procedure progress, and l
 
 ### Smartwatches
 
-- (2022) **SAMoSA: Sensing activities with motion and subsampled audio**. [Paper](https://doi.org/10.1145/3550284) · [GitHub ⭐ 21](https://github.com/cmusmashlab/SAMoSA)
+- (2022) **SAMoSA: Sensing activities with motion and subsampled audio**. [Paper](https://doi.org/10.1145/3550284) · [![GitHub Repo stars](https://img.shields.io/github/stars/cmusmashlab/SAMoSA)](https://github.com/cmusmashlab/SAMoSA)
 - (2024) **PrISM-Observer: Intervention Agent to Help Users Perform Everyday Procedures Sensed using a Smartwatch**. [Paper](https://doi.org/10.1145/3654777.3676350)
 
 ### Health and Assistive Devices
 
-- (2026) **Transforming wearable data into personal health insights using large language model agents**. [Paper](https://doi.org/10.1038/s41467-025-67922-y) · [GitHub ⭐ 69](https://github.com/yahskapar/personal-health-insights-agent)
-- (2026) **ECG-Agent: On-Device Tool-Calling Agent for ECG Multi-Turn Dialogue**. [Paper](https://arxiv.org/abs/2601.20323) · [GitHub ⭐ 10](https://github.com/gustmd0121/ECG-Agent)
+- (2026) **Transforming wearable data into personal health insights using large language model agents**. [Paper](https://doi.org/10.1038/s41467-025-67922-y) · [![GitHub Repo stars](https://img.shields.io/github/stars/yahskapar/personal-health-insights-agent)](https://github.com/yahskapar/personal-health-insights-agent)
+- (2026) **ECG-Agent: On-Device Tool-Calling Agent for ECG Multi-Turn Dialogue**. [Paper](https://arxiv.org/abs/2601.20323) · [![GitHub Repo stars](https://img.shields.io/github/stars/gustmd0121/ECG-Agent)](https://github.com/gustmd0121/ECG-Agent)
 - (2026) **Affective Agent: On-Device Personalized Intervention Reasoning for Wearable Systems**. [Paper](https://doi.org/10.1109/MIC.2026.3732091)
 - (2025) **MemPal: Leveraging Multimodal AI and LLMs for Voice-Activated Object Retrieval in Homes of Older Adults**. [Paper](https://doi.org/10.1145/3708359.3712151)
 
@@ -84,15 +84,15 @@ Physical robots and simulated environments: maps, retained observations, reusabl
 ### Physical Robots
 
 - (2026) **VLONS: A Vision-and-Language On-Device Navigation System With Multimodal Fusion and Modular Framework**. [Paper](https://doi.org/10.1109/TCE.2025.3638139)
-- (2025) **EfficientNav: Towards on-device object-goal navigation with navigation map caching and retrieval**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/067437c6d5d0369b6d09200bef89715b-Abstract-Conference.html) · [GitHub ⭐ 17](https://github.com/PKU-SEC-Lab/EfficientNav)
-- (2026) **STaR: Scalable Task-Conditioned Retrieval for Long-Horizon Multi-Modal Robot Memory**. [Paper](https://doi.org/10.1109/LRA.2026.3677723) · [GitHub ⭐ 13](https://github.com/TRAILab/STaR)
+- (2025) **EfficientNav: Towards on-device object-goal navigation with navigation map caching and retrieval**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/067437c6d5d0369b6d09200bef89715b-Abstract-Conference.html) · [![GitHub Repo stars](https://img.shields.io/github/stars/PKU-SEC-Lab/EfficientNav)](https://github.com/PKU-SEC-Lab/EfficientNav)
+- (2026) **STaR: Scalable Task-Conditioned Retrieval for Long-Horizon Multi-Modal Robot Memory**. [Paper](https://doi.org/10.1109/LRA.2026.3677723) · [![GitHub Repo stars](https://img.shields.io/github/stars/TRAILab/STaR)](https://github.com/TRAILab/STaR)
 
 ### Simulated Environments
 
 - (2026) **MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents**. [Paper](https://arxiv.org/abs/2601.20831)
-- (2025) **Memo: Training memory-efficient embodied agents with reinforcement learning**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/96889893231d651898b0de42fdbee3a6-Abstract-Conference.html) · [GitHub ⭐ 16](https://github.com/gunshi/memo)
-- (2024) **Voyager: An Open-Ended Embodied Agent with Large Language Models**. [Paper](https://openreview.net/forum?id=ehfRiF0R3a) · [GitHub ⭐ 7,250](https://github.com/MineDojo/Voyager)
-- (2026) **Embodied Agents Meet Personalization: Investigating Challenges and Solutions Through the Lens of Memory Utilization**. [Paper](https://arxiv.org/abs/2505.16348) · [GitHub ⭐ 26](https://github.com/Connoriginal/MEMENTO)
+- (2025) **Memo: Training memory-efficient embodied agents with reinforcement learning**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/96889893231d651898b0de42fdbee3a6-Abstract-Conference.html) · [![GitHub Repo stars](https://img.shields.io/github/stars/gunshi/memo)](https://github.com/gunshi/memo)
+- (2024) **Voyager: An Open-Ended Embodied Agent with Large Language Models**. [Paper](https://openreview.net/forum?id=ehfRiF0R3a) · [![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager)](https://github.com/MineDojo/Voyager)
+- (2026) **Embodied Agents Meet Personalization: Investigating Challenges and Solutions Through the Lens of Memory Utilization**. [Paper](https://arxiv.org/abs/2505.16348) · [![GitHub Repo stars](https://img.shields.io/github/stars/Connoriginal/MEMENTO)](https://github.com/Connoriginal/MEMENTO)
 
 ## Deployment Evidence
 

@@ -12,7 +12,7 @@
 
 📅 **Resource snapshot:** 2026-10-03 · 📚 **216 distinct cited papers** · 🏆 **32 benchmark entries** · 📱 **41 deployment entries**
 
-⭐ GitHub stars checked on **2026-10-07**. Links point to verified author repositories or accompanying resources.
+⭐ GitHub star badges update automatically. Links point to author repositories or accompanying resources verified on **2026-10-07**.
 
 ---
 
@@ -50,10 +50,10 @@ The resource follows the survey's organization. Foundational, cloud-based, compo
 
 ## 📚 Related Surveys
 
-- (2024) **A survey on large language model based autonomous agents**. [Paper](https://doi.org/10.1007/s11704-024-40231-1) · [GitHub ⭐ 2,913](https://github.com/Paitesanshi/LLM-Agent-Survey)
-- (2025) **The rise and potential of large language model based agents: a survey**. [Paper](https://doi.org/10.1007/s11432-024-4222-0) · [GitHub ⭐ 8,222](https://github.com/WooooDyy/LLM-Agent-Paper-List)
-- (2025) **A Survey on the Memory Mechanism of Large Language Model-based Agents**. [Paper](https://doi.org/10.1145/3748302) · [GitHub ⭐ 511](https://github.com/nuster1128/LLM_Agent_Memory_Survey)
-- (2025) **Memory in the Age of AI Agents**. [Paper](https://arxiv.org/abs/2512.13564) · [GitHub ⭐ 2,415](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
+- (2024) **A survey on large language model based autonomous agents**. [Paper](https://doi.org/10.1007/s11704-024-40231-1) · [![GitHub Repo stars](https://img.shields.io/github/stars/Paitesanshi/LLM-Agent-Survey)](https://github.com/Paitesanshi/LLM-Agent-Survey)
+- (2025) **The rise and potential of large language model based agents: a survey**. [Paper](https://doi.org/10.1007/s11432-024-4222-0) · [![GitHub Repo stars](https://img.shields.io/github/stars/WooooDyy/LLM-Agent-Paper-List)](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+- (2025) **A Survey on the Memory Mechanism of Large Language Model-based Agents**. [Paper](https://doi.org/10.1145/3748302) · [![GitHub Repo stars](https://img.shields.io/github/stars/nuster1128/LLM_Agent_Memory_Survey)](https://github.com/nuster1128/LLM_Agent_Memory_Survey)
+- (2025) **Memory in the Age of AI Agents**. [Paper](https://arxiv.org/abs/2512.13564) · [![GitHub Repo stars](https://img.shields.io/github/stars/Shichun-Liu/Agent-Memory-Paper-List)](https://github.com/Shichun-Liu/Agent-Memory-Paper-List)
 - (2025) **Empowering Edge Intelligence: A Comprehensive Survey on On-Device AI Models**. [Paper](https://doi.org/10.1145/3724420)
 
 ## 🧠 Memory Forms
@@ -66,9 +66,9 @@ Memory content, access structures, and physical storage play different roles. Th
 
 Readable records, summaries, task states, user profiles, and reusable procedures.
 
-- (2026) **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**. [Paper](https://arxiv.org/abs/2604.19541) · [GitHub ⭐ 0](https://github.com/Haoran2099/focal)
+- (2026) **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**. [Paper](https://arxiv.org/abs/2604.19541) · [![GitHub Repo stars](https://img.shields.io/github/stars/Haoran2099/focal)](https://github.com/Haoran2099/focal)
 - (2026) **UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents**. [Paper](https://arxiv.org/abs/2602.05832)
-- (2026) **PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.1669) · [GitHub ⭐ 30](https://github.com/iLearn-Lab/ACL26-PersonalAlign)
+- (2026) **PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.1669) · [![GitHub Repo stars](https://img.shields.io/github/stars/iLearn-Lab/ACL26-PersonalAlign)](https://github.com/iLearn-Lab/ACL26-PersonalAlign)
 
 [📚 All references in this topic](docs/memory-forms.md#textual-memory)
 
@@ -78,7 +78,7 @@ Embedding-based access through vector indexes, compressed representations, and b
 
 - (2025) **MobileRAG: A Fast, Memory-Efficient, and Energy-Efficient Method for On-Device RAG**. [Paper](https://arxiv.org/abs/2507.01079)
 - (2026) **MUSE: A Heterogeneity-Aware Multimedia Search Engine for Mobile SoCs**. [Paper](https://arxiv.org/abs/2511.19192)
-- (2025) **LEANN: A Low-Storage Vector Index**. [Paper](https://arxiv.org/abs/2506.08276) · [GitHub ⭐ 13,014](https://github.com/StarTrail-org/LEANN)
+- (2025) **LEANN: A Low-Storage Vector Index**. [Paper](https://arxiv.org/abs/2506.08276) · [![GitHub Repo stars](https://img.shields.io/github/stars/StarTrail-org/LEANN)](https://github.com/StarTrail-org/LEANN)
 
 [📚 All references in this topic](docs/memory-forms.md#vector-memory)
 
@@ -88,7 +88,7 @@ Transformer key-value states managed through compression, reuse, and tiered stor
 
 - (2025) **DynaKV: Enabling Accurate and Efficient Long-Sequence LLM Decoding on Smartphones**. [Paper](https://arxiv.org/abs/2511.07427)
 - (2026) **Agent-X: Full Pipeline Acceleration of On-device AI Agents**. [Paper](https://arxiv.org/abs/2605.10380)
-- (2025) **EfficientNav: Towards on-device object-goal navigation with navigation map caching and retrieval**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/067437c6d5d0369b6d09200bef89715b-Abstract-Conference.html) · [GitHub ⭐ 17](https://github.com/PKU-SEC-Lab/EfficientNav)
+- (2025) **EfficientNav: Towards on-device object-goal navigation with navigation map caching and retrieval**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/067437c6d5d0369b6d09200bef89715b-Abstract-Conference.html) · [![GitHub Repo stars](https://img.shields.io/github/stars/PKU-SEC-Lab/EfficientNav)](https://github.com/PKU-SEC-Lab/EfficientNav)
 
 [📚 All references in this topic](docs/memory-forms.md#kv-cache-memory)
 
@@ -122,8 +122,8 @@ Each operation shares resource budgets and data-use rules with model inference a
 
 Decide what enters memory, its granularity, and how provenance is retained.
 
-- (2026) **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**. [Paper](https://arxiv.org/abs/2604.19541) · [GitHub ⭐ 0](https://github.com/Haoran2099/focal)
-- (2025) **EgoTrigger: Toward Audio-Driven Image Capture for Human Memory Enhancement in All-Day Energy-Efficient Smart Glasses**. [Paper](https://arxiv.org/abs/2508.01915) · [GitHub ⭐ 5](https://github.com/yahskapar/EgoTrigger)
+- (2026) **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**. [Paper](https://arxiv.org/abs/2604.19541) · [![GitHub Repo stars](https://img.shields.io/github/stars/Haoran2099/focal)](https://github.com/Haoran2099/focal)
+- (2025) **EgoTrigger: Toward Audio-Driven Image Capture for Human Memory Enhancement in All-Day Energy-Efficient Smart Glasses**. [Paper](https://arxiv.org/abs/2508.01915) · [![GitHub Repo stars](https://img.shields.io/github/stars/yahskapar/EgoTrigger)](https://github.com/yahskapar/EgoTrigger)
 - (2026) **EMBER: Efficient Memory via Budgeted Evidence Retention for Long-Horizon Agents**. [Paper](https://arxiv.org/abs/2606.05894)
 
 [📚 All references in this topic](docs/lifecycle.md#memory-formation)
@@ -134,7 +134,7 @@ Choose when to retrieve, which memory to access, and how much evidence to pass t
 
 - (2026) **MemFlow: Intent-Driven Memory Orchestration for Small Language Model Agents**. [Paper](https://arxiv.org/abs/2605.03312)
 - (2025) **MobileRAG: A Fast, Memory-Efficient, and Energy-Efficient Method for On-Device RAG**. [Paper](https://arxiv.org/abs/2507.01079)
-- (2026) **Agentic Very Long Video Understanding**. [Paper](https://arxiv.org/abs/2601.18157) · [GitHub ⭐ 63](https://github.com/facebookresearch/egagent)
+- (2026) **Agentic Very Long Video Understanding**. [Paper](https://arxiv.org/abs/2601.18157) · [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/egagent)](https://github.com/facebookresearch/egagent)
 
 [📚 All references in this topic](docs/lifecycle.md#memory-retrieval)
 
@@ -143,7 +143,7 @@ Choose when to retrieve, which memory to access, and how much evidence to pass t
 Consolidate experience and revise retained state as evidence or environments change.
 
 - (2025) **Mnemosyne: An unsupervised, human-inspired long-term memory architecture for edge-based LLMs**. [Paper](https://arxiv.org/abs/2510.08601)
-- (2025) **A-Mem: Agentic memory for LLM agents**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/19909c36f51abc4856b4560aff3d36d6-Abstract-Conference.html) · [GitHub ⭐ 1,192](https://github.com/agiresearch/A-mem)
+- (2025) **A-Mem: Agentic memory for LLM agents**. [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/19909c36f51abc4856b4560aff3d36d6-Abstract-Conference.html) · [![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/A-mem)](https://github.com/agiresearch/A-mem)
 - (2025) **Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM**. [Paper](https://arxiv.org/abs/2512.15784)
 
 [📚 All references in this topic](docs/lifecycle.md#memory-evolution)
@@ -166,9 +166,9 @@ Remove low-value or explicitly targeted information, including influence in deri
 
 Learn and update user preferences from explicit feedback and interaction history.
 
-- (2026) **PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.1669) · [GitHub ⭐ 30](https://github.com/iLearn-Lab/ACL26-PersonalAlign)
-- (2026) **Learning Personalized Agents from Human Feedback**. [Paper](https://arxiv.org/abs/2602.16173) · [GitHub ⭐ 58](https://github.com/facebookresearch/PAHF)
-- (2026) **PERMA: Benchmarking Personalized Memory Agents via Event-Driven Preference and Realistic Task Environments**. [Paper](https://arxiv.org/abs/2603.23231) · [GitHub ⭐ 9](https://github.com/MINE-USTC/PERMA)
+- (2026) **PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records**. [Paper](https://doi.org/10.18653/v1/2026.acl-long.1669) · [![GitHub Repo stars](https://img.shields.io/github/stars/iLearn-Lab/ACL26-PersonalAlign)](https://github.com/iLearn-Lab/ACL26-PersonalAlign)
+- (2026) **Learning Personalized Agents from Human Feedback**. [Paper](https://arxiv.org/abs/2602.16173) · [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PAHF)](https://github.com/facebookresearch/PAHF)
+- (2026) **PERMA: Benchmarking Personalized Memory Agents via Event-Driven Preference and Realistic Task Environments**. [Paper](https://arxiv.org/abs/2603.23231) · [![GitHub Repo stars](https://img.shields.io/github/stars/MINE-USTC/PERMA)](https://github.com/MINE-USTC/PERMA)
 
 [📚 All references in this topic](docs/personalization.md#user-preferences)
 
@@ -176,7 +176,7 @@ Learn and update user preferences from explicit feedback and interaction history
 
 Interpret personal references using remembered people, objects, events, and context.
 
-- (2026) **Embodied Agents Meet Personalization: Investigating Challenges and Solutions Through the Lens of Memory Utilization**. [Paper](https://arxiv.org/abs/2505.16348) · [GitHub ⭐ 26](https://github.com/Connoriginal/MEMENTO)
+- (2026) **Embodied Agents Meet Personalization: Investigating Challenges and Solutions Through the Lens of Memory Utilization**. [Paper](https://arxiv.org/abs/2505.16348) · [![GitHub Repo stars](https://img.shields.io/github/stars/Connoriginal/MEMENTO)](https://github.com/Connoriginal/MEMENTO)
 - (2026) **EgoSelf: From Memory to Personalized Egocentric Assistant**. [Paper](https://arxiv.org/abs/2604.19564)
 - (2026) **SpeechLess: Micro-utterance with Personalized Spatial Memory-aware Assistant in Everyday Augmented Reality**. [Paper](https://doi.org/10.1109/VR67842.2026.00044)
 
@@ -196,7 +196,7 @@ Use history to recognize assistance opportunities while accounting for timing an
 
 Control retention, access, disclosure, and forgetting throughout personalization.
 
-- (2026) **MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents**. [Paper](https://arxiv.org/abs/2605.09530) · [GitHub ⭐ 123](https://github.com/MemTensor/MemPrivacy)
+- (2026) **MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents**. [Paper](https://arxiv.org/abs/2605.09530) · [![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/MemPrivacy)](https://github.com/MemTensor/MemPrivacy)
 - (2026) **Agent-Memory Protocol: A privacy-focused protocol for LLM agents and user memory interaction**. [Paper](https://proceedings.mlr.press/v317/wu26a.html)
 - (2026) **Opal: Private Memory for Personal AI**. [Paper](https://arxiv.org/abs/2604.02522)
 
