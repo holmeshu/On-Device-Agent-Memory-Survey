@@ -2,9 +2,11 @@
 
 # On-Device Agent Memory: A Survey
 
-👋 Hi, everyone! This is a survey initiated by the team of **Prof. Yuxiang Ren** and maintained by this team. I'm **Wenqi**. 💬 If you have any questions, please don’t hesitate to [contact me](https://github.com/holmeshu)!
+👋 Hi, everyone! This is a survey initiated by the team of **Prof. Yuxiang Ren** and maintained by this team. I'm **Wenqi**. 💬 If you have any questions, please don’t hesitate to [contact me](https://github.com/holmeshu)! 📧 You can also email me at [wenqihu@smail.nju.edu.cn](mailto:wenqihu@smail.nju.edu.cn).
 
 ⭐ [Star this survey on GitHub](https://github.com/holmeshu/On-Device-Agent-Memory-Survey) and 🤝 join us in building the next-generation on-device agent memory framework.
+
+📄 **[Read the survey (PDF)](paper/On-Device-Agent-Memory-Survey.pdf)** · Updated **2026-10-14**.
 
 **🧠 Five memory forms · 🔄 Four lifecycle operations · 📱 Four device contexts**
 
