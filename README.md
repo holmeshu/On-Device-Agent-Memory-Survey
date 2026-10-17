@@ -6,7 +6,7 @@
 
 ⭐ [Star this survey on GitHub](https://github.com/holmeshu/On-Device-Agent-Memory-Survey) and 🤝 join us in building the next-generation on-device agent memory framework.
 
-📄 **[Read the survey (PDF)](paper/On-Device-Agent-Memory-Survey.pdf)** · Updated **2026-10-17**.
+📄 **[Read the survey (PDF)](paper/On-Device-Agent-Memory-Survey.pdf)** · Updated **2026-10-18**.
 
 🌐 **[Project website](https://holmeshu.github.io/On-Device-Agent-Memory-Survey/)** — Explore interactive figures, benchmarks, and a searchable reading list.
 
