@@ -1,0 +1,77 @@
+/* Stable reading feedback: only color, borders and shadows change on hover. */
+:root{--reading-duration:160ms;--reading-highlight:#f1def5;--reading-edge:#a253ad}
+.section-label,.map-item,.platform-grid article,.form-tabs button,.segmented button,.paper-topics span,.memory-flow span,.paper-row,.figure-panel,.taxonomy-detail,.budget-list button{transition:background-color var(--reading-duration) ease,border-color var(--reading-duration) ease,color var(--reading-duration) ease,box-shadow var(--reading-duration) ease}
+.section h2,.map-item h3,.map-link,.lifecycle-steps h3,.three-columns h3,.evaluation-dimensions h3,.platform-icon,.paper-arrow{transition:color var(--reading-duration) ease}
+.section-label{position:relative;cursor:default}
+
+/* Keep breathing room inside every highlighted frame, including the first tile. */
+.landscape-map{gap:12px;border:0;grid-template-columns:repeat(5,minmax(0,1fr))}
+.landscape-map>.map-item{position:relative;z-index:0;min-width:0;grid-column:auto;padding:18px!important;border:1px solid #dfcde4;border-radius:7px;background:#fff}
+.map-item h3{line-height:1.35}.map-item .map-link{display:inline-flex;align-items:center;line-height:1.5}
+.platform-grid article{position:relative;min-width:0}
+.lifecycle-steps>article,.three-columns>article,.three-columns>article+article,.evaluation-dimensions>div,.frontier-grid>article{position:relative;isolation:isolate;min-width:0;padding:16px;border-radius:7px}
+.lifecycle-steps article:before,.three-columns article:before,.evaluation-dimensions>div:before,.frontier-grid article:before{content:"";position:absolute;inset:0;z-index:-1;border:2px solid transparent;border-radius:7px;opacity:0;pointer-events:none;transition:opacity var(--reading-duration) ease,background-color var(--reading-duration) ease,border-color var(--reading-duration) ease,box-shadow var(--reading-duration) ease}
+.paper-list>.paper-row{padding:14px 12px;border-radius:5px}.paper-arrow{display:inline-block}.paper-topics span{cursor:default}
+.memory-roles>div{padding:8px;transition:background-color var(--reading-duration) ease}
+.figure-zoom{position:relative;isolation:isolate}
+.figure-zoom:after{content:"Enlarge ↗";position:absolute;top:10px;right:10px;padding:6px 10px;border:1px solid #c89bd2;border-radius:5px;background:#fffffff5;box-shadow:0 2px 10px #450c4f20;color:var(--blue);font-family:var(--sans);font-size:12px;font-weight:600;line-height:1.4;opacity:0;pointer-events:none;transition:opacity var(--reading-duration) ease}
+.budget-list button{appearance:none;min-height:38px;padding:7px 10px;border:1px solid #d9bedf;border-radius:4px;background:#faf6fc;color:#724d7c;font-family:var(--sans);font-size:14px;font-weight:550;line-height:1.5;text-align:left}
+.budget-list button[aria-pressed="true"]{color:#fff;background:var(--blue);border-color:var(--blue);box-shadow:0 0 0 2px #63065f20}
+/* Stacked descriptions reserve their natural maximum height, preventing jumps. */
+.foundation-concept>.budget-explanation{display:grid;font-size:16px;line-height:1.7;margin:0;padding:0 0 0 13px;border-left:3px solid #a967b5;color:#695171}
+.budget-explanation>p{grid-area:1/1;margin:0;color:inherit;font:inherit}
+.budget-explanation>p[aria-hidden="true"]{visibility:hidden}
+.map-item:focus-visible{z-index:1;background:var(--reading-highlight);border-color:var(--reading-edge);box-shadow:inset 0 0 0 1px var(--reading-edge),0 4px 14px #63065f1c}
+.map-item:focus-visible h3,.map-item:focus-visible .map-link{color:var(--blue)}
+.platform-grid article:focus-within{background:#f7eafa;border-color:var(--reading-edge);box-shadow:inset 0 0 0 1px var(--reading-edge),0 4px 14px #63065f1c}
+.figure-panel:focus-within{border-color:var(--reading-edge);box-shadow:0 0 0 2px #63065f20}
+.figure-zoom:focus-visible:after{opacity:1}
+.paper-row:focus-within{background:var(--reading-highlight);box-shadow:inset 3px 0 0 var(--blue)}
+.budget-list button:focus-visible,.form-tabs button:focus-visible,.segmented button:focus-visible,.reset-filters:focus-visible{outline:3px solid #a253ad;outline-offset:3px;position:relative;z-index:1}
+.table-scroll:focus-visible{outline:3px solid #a253ad;outline-offset:4px}
+/* Reset filters without leaving the current reading section. */
+.results-toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:42px;margin:7px 0 5px}
+.results-toolbar .results-note{margin:0}
+.reset-filters{flex-shrink:0;border:1px solid #dfcde4;border-radius:5px;background:#faf4fc;color:var(--blue);padding:5px 9px;font-size:13px;font-weight:600;line-height:1.5}
+.table-scroll-hint{font-size:13px;line-height:1.6;color:#725178;margin:0 0 8px}
+.benchmark-table td:first-child{position:sticky;left:0;z-index:1;background:#fff;box-shadow:1px 0 #dfcde4}
+.benchmark-table th:first-child{left:0;z-index:3;box-shadow:1px 0 #dfcde4}
+.benchmark-table tbody tr:focus-within,.benchmark-table tbody tr:focus-within td:first-child{background:#f5e8f8}
+::selection{background:#e4c3eb;color:#3b123d}
+@media(hover:hover) and (pointer:fine){
+  .section-label:hover{background:#8b1b85;border-color:#8b1b85;box-shadow:0 0 0 3px #63065f24,0 4px 14px #63065f30}
+  .frontiers-section .section-label:hover{background:#fff;border-color:#fff;color:#63065f;box-shadow:0 0 0 3px #ffffff30,0 4px 14px #18061940}
+  .section:has(> .container > .section-label:hover)>.container>h2,.section:has(> .container > .section-label:hover)>.container>.section-heading h2{color:var(--blue)}
+  .frontiers-section:has(> .container > .section-label:hover)>.container>h2{color:#f2d8f3}
+  .landscape-map>.map-item:hover{z-index:1;background:var(--reading-highlight);border-color:var(--reading-edge);box-shadow:inset 0 0 0 1px var(--reading-edge),0 4px 14px #63065f1c}
+  .map-item:hover h3,.map-item:hover .map-link{color:var(--blue)}
+  .platform-grid article:hover{background:#f7eafa;border-color:var(--reading-edge);box-shadow:inset 0 0 0 1px var(--reading-edge),0 4px 14px #63065f1c}.platform-grid article:hover .platform-icon{background:#e8c9ef;color:#63065f}
+  .lifecycle-steps article:hover:before,.three-columns article:hover:before,.evaluation-dimensions>div:hover:before{opacity:1;border-color:#bd85c7;background:#f3e2f7;box-shadow:0 3px 12px #63065f12}
+  .lifecycle-steps article:hover h3,.three-columns article:hover h3,.evaluation-dimensions>div:hover h3{color:var(--blue)}
+  .frontier-grid article:hover:before{opacity:1;background:#ffffff13;border-color:#dca7e2}.frontier-grid article:hover h3{color:#f5ddf7}
+  .memory-flow span:hover,.paper-topics span:hover{background:#e5c4ed;border-color:#b77cc5;color:#63065f}
+  .memory-roles>div:hover{background:#f1def5}
+  .budget-list button:hover:not([aria-pressed="true"]){background:#e6c8ee;border-color:#a253ad;color:#63065f;box-shadow:inset 0 0 0 1px #a253ad}
+  .form-tabs button:hover:not([aria-selected="true"]),.segmented button:hover:not(.selected){background:#e6c8ee;color:var(--blue)}
+  .figure-panel:hover{border-color:var(--reading-edge);box-shadow:0 0 0 2px #63065f20}.figure-zoom:hover:after{opacity:1}
+  .taxonomy-detail summary:hover{background:#eddaf3;color:var(--blue)}
+  .paper-row:hover{background:var(--reading-highlight);box-shadow:inset 3px 0 0 var(--blue)}.paper-row:hover .paper-arrow{color:var(--blue)}
+  .reset-filters:hover{background:#e6c8ee;border-color:#a253ad}
+  .benchmark-table tbody tr:hover,.benchmark-table tbody tr:hover td:first-child{background:#f1def5}
+}
+.budget-list button:active,.reset-filters:active{box-shadow:inset 0 1px 4px #28053020}
+@media(max-width:1000px){.landscape-map{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:760px){
+  .landscape-map{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .landscape-map>.map-item{padding:16px!important}.landscape-map>.map-item:last-child{grid-column:1/-1}
+  .budget-list button{min-height:42px;font-size:14px}
+  .results-toolbar{gap:8px}.reset-filters{font-size:12px}
+  .benchmark-table td:first-child{min-width:145px;max-width:170px}
+}
+@media(max-width:380px){.landscape-map>.map-item{padding:13px!important}.map-item h3,.evaluation-dimensions h3{font-size:16px}}
+@media(max-width:600px){.frontier-grid{grid-template-columns:1fr;gap:10px}}
+@media(max-width:560px){.platform-grid{grid-template-columns:1fr;gap:12px}}
+@media(prefers-reduced-motion:reduce){
+  .section-label,.map-item,.platform-grid article,.map-link,.platform-icon,.paper-arrow,.figure-zoom:after,.budget-list button,.reset-filters{transition:none!important}
+  .lifecycle-steps article:before,.three-columns article:before,.evaluation-dimensions>div:before,.frontier-grid article:before{transition:none!important}
+}
