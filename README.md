@@ -217,7 +217,7 @@ The application device and the execution location of memory components are separ
 | ⌚ Personal sensing | Triggered episodes, procedure progress, longitudinal health records | [Watches and health devices](docs/deployment.md#personal-sensing-systems) |
 | 🤖 Embodied systems | Maps, object state, navigation history, skill reuse | [Robots and simulation](docs/deployment.md#embodied-systems) |
 
-[📋 View the complete deployment evidence table](docs/deployment.md#deployment-evidence)
+[📋 View Table 6-1: platforms, deployment evidence, and resource measurements](docs/deployment.md#deployment-evidence)
 
 ## 🏆 Benchmarks
 

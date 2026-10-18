@@ -96,53 +96,63 @@ Physical robots and simulated environments: maps, retained observations, reusabl
 
 ## Deployment Evidence
 
-These labels reproduce the survey's reported runtime evidence:
+**Table 6-1. Platforms, deployment evidence, and resource measurements of representative methods.** This table follows the current [survey PDF](../paper/On-Device-Agent-Memory-Survey.pdf).
 
-- **Full local execution:** all core runtime components demonstrated on the target device.
-- **Partial local execution:** at least one core component ran locally, while other required components used a companion computer or cloud.
+Deployment labels describe runtime evidence:
+
+- **Full local:** all core runtime components demonstrated on the target device.
+- **Partial local:** at least one core component ran locally, while other required components used a companion computer or cloud.
 - **Feasibility only:** resource requirements or model size evaluated without running the system on target hardware.
-- **No local runtime evidence:** no on-device runtime evidence reported.
+- **No local evidence:** no on-device runtime evidence reported.
 
-| Method | Platform | Deployment evidence | Paper |
-| --- | --- | --- | --- |
-| Stamp-GUI | Smartphone | No local runtime evidence | [Paper](https://arxiv.org/abs/2605.29324) |
-| ATMem | Smartphone | No local runtime evidence | [Paper](https://arxiv.org/abs/2606.31612) |
-| TSR | Smartphone | No local runtime evidence | [Paper](https://arxiv.org/abs/2607.00502) |
-| UI-Mem | Smartphone | No local runtime evidence | [Paper](https://arxiv.org/abs/2602.05832) |
-| MOBIMEM | Smartphone | Partial local execution | [Paper](https://arxiv.org/abs/2512.15784) |
-| PalmClaw | Smartphone | Partial local execution | [Paper](https://arxiv.org/abs/2607.13027) |
-| MAGNET | Smartphone | No local runtime evidence | [Paper](https://arxiv.org/abs/2601.19199) |
-| MUSE | Smartphone | Full local execution | [Paper](https://arxiv.org/abs/2511.19192) |
-| MobileRAG | Smartphone | Full local execution | [Paper](https://arxiv.org/abs/2507.01079) |
-| DynaKV | Smartphone | Full local execution | [Paper](https://arxiv.org/abs/2511.07427) |
-| FOCAL | Laptop or desktop | Full local execution | [Paper](https://arxiv.org/abs/2604.19541) |
-| Agent-X | Mac mini | Full local execution | [Paper](https://arxiv.org/abs/2605.10380) |
-| persistent 4-bit KV caches | Mac | Full local execution | [Paper](https://arxiv.org/abs/2603.04428) |
-| LEANN | Personal computer | Feasibility only | [Paper](https://arxiv.org/abs/2506.08276) |
-| MemLoRA | Personal computer | Feasibility only | [Paper](https://arxiv.org/abs/2512.04763) |
-| ActionEngine | Desktop or web GUI | No local runtime evidence | [Paper](https://arxiv.org/abs/2602.20502) |
-| PUBG Ally | Consumer PC | Full local execution | [Paper](https://arxiv.org/abs/2609.29837) |
-| fixed-persona dialogue system | Consumer PC | Full local execution | [Paper](https://arxiv.org/abs/2511.10277) |
-| EgoTrigger | Smart glasses | Partial local execution | [Paper](https://arxiv.org/abs/2508.01915) |
-| ColorTrigger | Wearable or edge camera | No local runtime evidence | [Paper](https://arxiv.org/abs/2603.22466) |
-| EgoLife | Smart glasses | No local runtime evidence | [Paper](https://arxiv.org/abs/2503.03803) |
-| EgoGraph | Egocentric recorder | No local runtime evidence | [Paper](https://arxiv.org/abs/2602.23709) |
-| ProMemAssist | Smart glasses | Partial local execution | [Paper](https://doi.org/10.1145/3746059.3747770) |
-| personalized proactive assistance study | Smart glasses | No local runtime evidence | [Paper](https://doi.org/10.1145/3772363.3798509) |
-| intention-aware semantic communication | Smart glasses | No local runtime evidence | [Paper](https://arxiv.org/abs/2604.23691) |
-| SpeechLess | Quest 3 | Partial local execution | [Paper](https://doi.org/10.1109/VR67842.2026.00044) |
-| PITAR | XR headset | Partial local execution | [Paper](https://doi.org/10.1145/3761667.3761944) |
-| ClickAIXR | Magic Leap 2 | Full local execution | [Paper](https://arxiv.org/abs/2604.04905) |
-| SAMoSA | Smartwatch | Partial local execution | [Paper](https://doi.org/10.1145/3550284) |
-| PrISM-Observer | Apple Watch | Full local execution | [Paper](https://doi.org/10.1145/3654777.3676350) |
-| PHIA | Wearable data platform | No local runtime evidence | [Paper](https://doi.org/10.1038/s41467-025-67922-y) |
-| ECG-Agent | Smartphone or wearable | Feasibility only | [Paper](https://arxiv.org/abs/2601.20323) |
-| Affective Agent | Raspberry Pi CM5 | Partial local execution | [Paper](https://doi.org/10.1109/MIC.2026.3732091) |
-| MemPal | Neck-worn smartphone | Partial local execution | [Paper](https://doi.org/10.1145/3708359.3712151) |
-| VLONS | Jetson robots | Full local execution | [Paper](https://doi.org/10.1109/TCE.2025.3638139) |
-| EfficientNav | Jetson (Habitat) | Full local execution | [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/067437c6d5d0369b6d09200bef89715b-Abstract-Conference.html) |
-| STaR | Husky robot | Partial local execution | [Paper](https://doi.org/10.1109/LRA.2026.3677723) |
-| MemCtrl | Robot simulators | No local runtime evidence | [Paper](https://arxiv.org/abs/2601.20831) |
-| Memo | Robot simulators | No local runtime evidence | [Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/96889893231d651898b0de42fdbee3a6-Abstract-Conference.html) |
-| Voyager | Minecraft | No local runtime evidence | [Paper](https://openreview.net/forum?id=ehfRiF0R3a) |
-| user profile memory module | Simulated Spot robot | No local runtime evidence | [Paper](https://arxiv.org/abs/2505.16348) |
+**Resource measurements:** **R** = runtime memory; **S** = persistent storage; **T** = response/task time; **E** = energy or power.
+
+**✓** = measured, including partial or off-device results; **×** = estimate only or not reported. The measurement marks are separate from the local deployment labels.
+
+| Method / paper | Platform / deployment | R | S | T | E |
+| --- | --- | :---: | :---: | :---: | :---: |
+| **Personal computing** | | | | | |
+| [Stamp-GUI](https://arxiv.org/abs/2605.29324) | Smartphone<br>No local evidence | × | × | × | × |
+| [ATMem](https://arxiv.org/abs/2606.31612) | Smartphone<br>No local evidence | × | × | × | × |
+| [TSR](https://arxiv.org/abs/2607.00502) | Smartphone<br>No local evidence | × | × | × | × |
+| [UI-Mem](https://arxiv.org/abs/2602.05832) | Smartphone<br>No local evidence | × | × | × | × |
+| [MOBIMEM](https://arxiv.org/abs/2512.15784) | Smartphone<br>Partial local | × | ✓ | ✓ | × |
+| [PalmClaw](https://arxiv.org/abs/2607.13027) | Smartphone<br>Partial local | × | × | ✓ | × |
+| [MAGNET](https://arxiv.org/abs/2601.19199) | Smartphone<br>No local evidence | × | × | × | × |
+| [MUSE](https://arxiv.org/abs/2511.19192) | Smartphone<br>Full local | × | × | ✓ | ✓ |
+| [MobileRAG](https://arxiv.org/abs/2507.01079) | Smartphone<br>Full local | ✓ | × | ✓ | ✓ |
+| [DynaKV](https://arxiv.org/abs/2511.07427) | Smartphone<br>Full local | ✓ | ✓ | ✓ | ✓ |
+| [FOCAL](https://arxiv.org/abs/2604.19541) | Laptop or desktop<br>Full local | × | × | × | × |
+| [Agent-X](https://arxiv.org/abs/2605.10380) | Mac mini<br>Full local | ✓ | ✓ | ✓ | × |
+| [persistent 4-bit KV caches](https://arxiv.org/abs/2603.04428) | Mac<br>Full local | × | × | ✓ | × |
+| [LEANN](https://arxiv.org/abs/2506.08276) | RTX 4090 workstation<br>Full local | × | ✓ | ✓ | × |
+| [MemLoRA](https://arxiv.org/abs/2512.04763) | Personal computer<br>Feasibility only | × | × | ✓ | × |
+| [ActionEngine](https://arxiv.org/abs/2602.20502) | Desktop or web GUI<br>No local evidence | × | × | ✓ | × |
+| [PUBG Ally](https://arxiv.org/abs/2609.29837) | Consumer PC<br>Full local | ✓ | × | ✓ | × |
+| [fixed-persona dialogue system](https://arxiv.org/abs/2511.10277) | Consumer PC<br>Full local | ✓ | ✓ | ✓ | × |
+| **Head-worn systems** | | | | | |
+| [EgoTrigger](https://arxiv.org/abs/2508.01915) | Smart glasses<br>Partial local | × | ✓ | × | ✓ |
+| [ColorTrigger](https://arxiv.org/abs/2603.22466) | Wearable or edge camera<br>No local evidence | × | × | ✓ | × |
+| [EgoLife](https://arxiv.org/abs/2503.03803) | Smart glasses<br>No local evidence | × | × | × | × |
+| [EgoGraph](https://arxiv.org/abs/2602.23709) | Egocentric recorder<br>No local evidence | × | × | × | × |
+| [ProMemAssist](https://doi.org/10.1145/3746059.3747770) | Smart glasses<br>Partial local | × | × | × | × |
+| [personalized proactive assistance study](https://doi.org/10.1145/3772363.3798509) | Smart glasses<br>No local evidence | × | × | × | × |
+| [intention-aware semantic communication](https://arxiv.org/abs/2604.23691) | Smart glasses<br>No local evidence | × | × | × | × |
+| [SpeechLess](https://doi.org/10.1109/VR67842.2026.00044) | Quest 3<br>Partial local | × | × | ✓ | × |
+| [PITAR](https://doi.org/10.1145/3761667.3761944) | XR headset<br>Partial local | × | × | ✓ | × |
+| [ClickAIXR](https://arxiv.org/abs/2604.04905) | Magic Leap 2<br>Full local | × | × | ✓ | × |
+| **Personal sensing** | | | | | |
+| [SAMoSA](https://doi.org/10.1145/3550284) | Smartwatch<br>Partial local | × | × | ✓ | ✓ |
+| [PrISM-Observer](https://doi.org/10.1145/3654777.3676350) | Apple Watch<br>Full local | × | × | ✓ | × |
+| [PHIA](https://doi.org/10.1038/s41467-025-67922-y) | Wearable data platform<br>No local evidence | × | × | × | × |
+| [ECG-Agent](https://arxiv.org/abs/2601.20323) | Smartphone or wearable<br>Feasibility only | × | × | × | × |
+| [Affective Agent](https://doi.org/10.1109/MIC.2026.3732091) | Raspberry Pi CM5<br>Partial local | ✓ | ✓ | ✓ | × |
+| [MemPal](https://doi.org/10.1145/3708359.3712151) | Neck-worn smartphone<br>Partial local | × | × | ✓ | × |
+| **Embodied systems** | | | | | |
+| [VLONS](https://doi.org/10.1109/TCE.2025.3638139) | Jetson robots<br>Full local | × | × | ✓ | × |
+| [EfficientNav](https://proceedings.neurips.cc/paper_files/paper/2025/hash/067437c6d5d0369b6d09200bef89715b-Abstract-Conference.html) | Jetson (Habitat)<br>Full local | × | × | ✓ | × |
+| [STaR](https://doi.org/10.1109/LRA.2026.3677723) | Husky robot<br>Partial local | ✓ | ✓ | ✓ | × |
+| [MemCtrl](https://arxiv.org/abs/2601.20831) | Robot simulators<br>No local evidence | × | × | × | × |
+| [Memo](https://proceedings.neurips.cc/paper_files/paper/2025/hash/96889893231d651898b0de42fdbee3a6-Abstract-Conference.html) | Robot simulators<br>No local evidence | ✓ | × | ✓ | × |
+| [Voyager](https://openreview.net/forum?id=ehfRiF0R3a) | Minecraft<br>No local evidence | × | × | × | × |
+| [user profile memory module](https://arxiv.org/abs/2505.16348) | Simulated Spot robot<br>No local evidence | × | × | × | × |
