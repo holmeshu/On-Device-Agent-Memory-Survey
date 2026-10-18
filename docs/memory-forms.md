@@ -31,7 +31,6 @@ Readable records, summaries, task states, user profiles, and reusable procedures
 - (2025) **AR Secretary Agent: Real-time Memory Augmentation via LLM-powered Augmented Reality Glasses**. [Paper](https://arxiv.org/abs/2505.11888)
 - (2025) **A Simple Yet Strong Baseline for Long-Term Conversational Memory of LLM Agents**. [Paper](https://arxiv.org/abs/2511.17208) · [![GitHub Repo stars](https://img.shields.io/github/stars/KevinSRR/EMem)](https://github.com/KevinSRR/EMem)
 - (2026) **MemArena: An Ego-Centric Benchmark for On-Device Agentic Personal Memory Assistants at Scale**. [Paper](https://arxiv.org/abs/2608.02613) · [![GitHub Repo stars](https://img.shields.io/github/stars/dereksodo/MemArena-Bench)](https://github.com/dereksodo/MemArena-Bench)
-- (2025) **Cassie: A Fully Offline, Persistent-Memory AI Assistant for Secure, Cloud-Free Deployment**. [Paper](https://ccsc.org/publications/journals/CCSCEastern2025Final.pdf#page=90)
 
 ### Hierarchical Summaries
 

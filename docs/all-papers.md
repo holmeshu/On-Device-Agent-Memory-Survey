@@ -4,7 +4,7 @@
 
 ⭐ GitHub star badges update automatically. Links point to author repositories or accompanying resources verified on **2026-10-07**.
 
-216 distinct papers are cited in the manuscript text or tables. The supplied bibliography contains 218 records in total.
+215 distinct papers are cited in the manuscript text or tables. The supplied bibliography contains 217 records in total.
 
 Titles, authors, years, and identifiers below are taken from the supplied BibTeX file. Topic placement follows the manuscript. Papers can appear in multiple topics.
 
@@ -1614,17 +1614,6 @@ Titles, authors, years, and identifiers below are taken from the supplied BibTeX
 **Link:** [Paper](https://arxiv.org/abs/2501.09645)  
 **GitHub:** [![GitHub Repo stars](https://img.shields.io/github/stars/johanneskirmayr/CarMem)](https://github.com/johanneskirmayr/CarMem)
 **Survey topics:** [Write Admission](lifecycle.md#write-admission)
-
-
-<a name="paper-3801163-3801211"></a>
-
-### Cassie: A Fully Offline, Persistent-Memory AI Assistant for Secure, Cloud-Free Deployment
-
-**Year:** 2025  
-**Authors:** Harada, James and Harada, Charles  
-**BibTeX key:** `3801163.3801211`  
-**Link:** [Paper](https://ccsc.org/publications/journals/CCSCEastern2025Final.pdf#page=90)
-**Survey topics:** [Event Records](memory-forms.md#event-records)
 
 
 <a name="paper-lee2025ciflexcontextualinstructionflow"></a>

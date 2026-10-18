@@ -14,7 +14,7 @@
 
 📖 A curated collection of papers, benchmarks, and deployment evidence accompanying **On-Device Agent Memory: A Survey**. The survey examines how agents retain and use personal experience under device memory, compute, energy, and data-use constraints.
 
-📅 **Resource snapshot:** 2026-10-03 · 📚 **216 distinct cited papers** · 🏆 **32 benchmark entries** · 📱 **41 deployment entries**
+📅 **Resource snapshot:** 2026-10-03 · 📚 **215 distinct cited papers** · 🏆 **32 benchmark entries** · 📱 **41 deployment entries**
 
 ⭐ GitHub star badges update automatically. Links point to author repositories or accompanying resources verified on **2026-10-07**.
 
